@@ -1,13 +1,13 @@
-# QCrypt 2021 website
+# QCrypt 2022 website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aee8e5e5-1bfe-4e20-9383-ba9abff022ee/deploy-status)](https://app.netlify.com/sites/qcrypt2021/deploys)
 
-Live site at https://2021.qcrypt.net
+Live site at https://2022.qcrypt.net
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
-theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2021
+theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2022
 
 ## Building this conference site from scratch
 
@@ -59,3 +59,20 @@ When you are happy with the result run `npm run build` to build the minified ver
 ### Installing on a new ARM Mac
 node-sass is not yet ported to ARM processors, but there is a work-around described here:
 https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
+
+## Setting up the next year 2022 based on year 2021
+1. create new empty repository QCrypt/website-2022
+2. clone QCrypt/website-2021 , remove bulky data like slides and posters, copy the rest over to the empty website-2022, except the themes subdirectory
+3. in QCrypt/website-2021, change remote destination:
+```git remote set-url origin https://github.com/QCrypt/website-2022.git```
+4. ```git branch -M main```
+5. ```git push -u origin main```
+
+6. create new empty repository QCrypt/devfest-theme-hugo-2022
+7. ```git clone QCrypt/devfest-theme-hugo-2021```
+8. ```git remote set-url origin https://github.com/QCrypt/devfest-theme-hugo-2022.git```
+9. ```git branch -M main```
+10. ```git push -u origin main```
+
+11. cd website-2022, mkdir themes
+12. git submodule add https://github.com/QCrypt/devfest-theme-hugo-2022 devfest-theme-hugo

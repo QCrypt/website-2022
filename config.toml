@@ -2,7 +2,7 @@
 
 # baseURL = "https://competent-nightingale-85ae87.netlify.com/"
 languageCode = "en"
-title = "QCrypt 2021"
+title = "QCrypt 2022"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -15,7 +15,7 @@ enableMissingTranslationPlaceholders = true
 GoogleAnalytics = "G-221GMGECQ6"
 
 [params]
-    title = "QCrypt 2021"
+    title = "QCrypt 2022"
     date = "2021-08-23"
     description = "11th International Conference on Quantum Cryptography, held online, organized from Amsterdam, The Netherlands, 23-27 August 2021"
     images = ["/images/social-share.jpg"]

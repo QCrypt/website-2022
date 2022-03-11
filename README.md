@@ -1,6 +1,6 @@
 # QCrypt 2022 website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aee8e5e5-1bfe-4e20-9383-ba9abff022ee/deploy-status)](https://app.netlify.com/sites/qcrypt2021/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2022/deploys)
 
 Live site at https://2022.qcrypt.net
 
@@ -15,7 +15,7 @@ theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2022
 2. Clone this repo:
 
 ```bash
-git clone git@github.com:QCrypt/website-2021.git
+git clone git@github.com:QCrypt/website-2022.git
 ```
 
 3. Update the theme submodule
@@ -62,8 +62,8 @@ https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
 
 ## Setting up the next year 2022 based on year 2021
 1. create new empty repository QCrypt/website-2022
-2. clone QCrypt/website-2021 , remove bulky data like slides and posters, copy the rest over to the empty website-2022, except the themes subdirectory
-3. in QCrypt/website-2021, change remote destination:
+2. clone QCrypt/website-2022 , remove bulky data like slides and posters, copy the rest over to the empty website-2022, except the themes subdirectory
+3. in QCrypt/website-2022, change remote destination:
 ```git remote set-url origin https://github.com/QCrypt/website-2022.git```
 4. ```git branch -M main```
 5. ```git push -u origin main```

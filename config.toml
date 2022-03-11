@@ -16,13 +16,13 @@ GoogleAnalytics = "G-221GMGECQ6"
 
 [params]
     title = "QCrypt 2022"
-    date = "2021-08-23"
-    description = "11th International Conference on Quantum Cryptography, held online, organized from Amsterdam, The Netherlands, 23-27 August 2021"
+    date = "2022-08-29"
+    description = "12th International Conference on Quantum Cryptography, held online, organized from Amsterdam, The Netherlands, 23-27 August 2021"
     images = ["/images/social-share.jpg"]
-    email = "2021@qcrypt.net"
+    email = "2022@qcrypt.net"
     keywords = "event, quantum cryptography, QCrypt, Amsterdam"
     copyright = "We :heart: sheep"
-    copyright_link = "https://github.com/QCrypt/website-2021"
+    copyright_link = "https://github.com/QCrypt/website-2022"
     # cfpUrl = ""
     # subscriptionUrl = ""
     appleTouchIcon = "/apple-touch-icon.png"

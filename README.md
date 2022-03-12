@@ -33,10 +33,12 @@ cd ../..
 hugo server
 ```
 
-5. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2021.netlify.com/ and accessible under https://2021.qcrypt.net .
+5. Edit the markdown source files with ending .md in the /content/ subdirectory to make changes to the site. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
+
+6. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net .
 
 ## Customizing the theme
-The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2021
+The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2022
 
 First, install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 

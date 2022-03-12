@@ -26,16 +26,18 @@ git submodule init
 git submodule update
 ```
 
-4. It's done. Just start Hugo server to see it live!
+4. It's done. Just start Hugo server to see the site live!
 
 ```bash
 cd ../..
 hugo server
 ```
 
-5. Edit the markdown source files with ending .md in the /content/ subdirectory to make changes to the site. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
+5. Edit the markdown source files with ending .md in the /content/ subdirectory to make changes to the site. You might also have to edit .json and .yml files in the /data/ subdirectory. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
 
-6. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net .
+6. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
+
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net .
 
 ## Customizing the theme
 The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2022

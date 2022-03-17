@@ -21,7 +21,7 @@ git clone git@github.com:QCrypt/website-2022.git
 3. Update the theme submodule
 
 ```bash
-cd public-website/themes/devfest-theme-hugo
+cd website-2022/themes/devfest-theme-hugo
 git submodule init
 git submodule update
 ```
@@ -37,7 +37,7 @@ hugo server
 
 6. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net .
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net . If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qcrypt2022/deploys).
 
 ## Customizing the theme
 The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2022

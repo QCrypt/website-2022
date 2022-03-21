@@ -6,9 +6,9 @@ menu:
 ---
 
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/QCrypt_background1.png" imgLabel="QCrypt 2021 background" %}}
+{{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2021 background" %}}
 
-## 23-27 August 2021
+## 29th August to 2nd September 2022
 
 ### 2021: online conference
 

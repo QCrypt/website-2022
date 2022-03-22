@@ -1,7 +1,7 @@
 ---
 title: ID Quantique
 type: partner
-draft: false
+draft: true
 category: gold
 logo: /images/partners/IDQ_Logo_FullColour.png
 website: https://www.idquantique.com/

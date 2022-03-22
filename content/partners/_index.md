@@ -31,7 +31,7 @@ We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébas
 ## Call for Sponsors
 QCrypt 2021 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2021.
 
-If you wish to become a sponsor, please contact us at 
+If you wish to become a sponsor, please contact us at
 {{< button-link label="2021@qcrypt.net"
 url="mailto:2021@qcrypt.net"
 icon="email" >}}

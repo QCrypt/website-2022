@@ -1,7 +1,7 @@
 ---
 title: Baidu
 type: partner
-draft: false
+draft: true
 category: silver
 logo: /images/partners/Baidu.png
 website: https://quantum.baidu.com/

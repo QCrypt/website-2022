@@ -1,7 +1,7 @@
 ---
 title: "Quantum.Amsterdam"
 type: partner
-draft: false
+draft: true
 category: gold
 logo: /images/partners/QA.png
 website: /partners/gold/qa/

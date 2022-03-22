@@ -1,7 +1,7 @@
 ---
 title: QuICS
 type: partner
-draft: false
+draft: true
 category: gold
 logo: /images/partners/QuICS.png
 website: https://quics.umd.edu/

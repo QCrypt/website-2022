@@ -9,10 +9,11 @@ menu:
 {{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2021 background" %}}
 
 ## 29th August to 2nd September 2022
-
+<!--
 ### 2021: online conference
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
+-->
 
 <!--
 <a class="btn primary btn-lg" href="/schedule">
@@ -38,13 +39,14 @@ menu:
  -->
 
 <!-- INFO -->
-{{% home-info what="Registrants:>1000,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
+{{% home-info class="primary" %}}
 
 ## What is QCrypt 2022?
 
 QCrypt2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
-Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined.
+<a style="color: red" >Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined. </a>
+
 {{% /home-info %}}
 
 <!-- SPEAKERS -->
@@ -103,18 +105,18 @@ Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet wh
 <!-- THE MAP -->
 {{% home-location
     image="/images/map_en.jpg"
-    address="Roeterseiland Campus, Nieuwe Achtergracht 166, 1018 WD Amsterdam, The Netherlands"
-    latitude="52.3633392"
-    longitude="4.9120849"
+    address="Humanities and Social Science Building, Academia Sinica Humanities and Social Sciences Building, No. 128, Section 2, Academia Rd, Nangang District, Taipei City, Taiwan"
+    latitude="25.0457936"
+    longitude="121.6168995"
     %}}
 
-## The 2021 venue
-### online
+## The 2022 venue
+<!-- ### online -->
 {{% /home-location %}}
 
 {{% partners categories="gold,silver,bronze,community" %}}
-
 ## Sponsors
+
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY" target="_blank">Become a sponsor</a>
 -->

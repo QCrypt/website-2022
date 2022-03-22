@@ -1,7 +1,7 @@
 ---
 title: RMY Electronics
 type: partner
-draft: false
+draft: true
 category: silver
 logo: /images/partners/rmy.jpg
 website: http://rmyelectronics.com

@@ -83,7 +83,7 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2019 Montréal | Anthony Leverrier | Eleni Diamanti | Gilles Brassard, Claude Crépeau, Sébastian Gambs, Louis Salvail
 |2020 Amsterdam | Frédéric Dupuis | Feihu Xu | Serge Fehr, Christian Schaffner
 |2021 Amsterdam | Carl Miller | Tobias Gehring | Serge Fehr, Christian Schaffner
-
+|2022 Taiwan | Lim Ci Wen (Charles) | Anthony Martin | Bo-Yin Yang, Kai-Min Chung, Yeong-Cherng Liang
 
 ### Steering Committees
 
@@ -100,6 +100,7 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2019 |Montreal | Anne Broadbent, Marcos Curty (chair), Serge Fehr, Yi-Kai Liu, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang
 |2020 |online from Amsterdam | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
 |2021 |online from Amsterdam | Gorjan Alagic, Marco Lucamarini, Serge Fehr, Stacey Jeffery, Christoph Marquardt (chair), Akihisa Tomita, Feihu Xu, Hugo Zbinden
+|2022 | Taiwan | Gorjan Alagic (chair), Kai-Min Chung, Serge Fehr, Stacey Jeffery, Qian Li, Marco Lucamarini, Christoph Marquardt, Feihu Xu
 
 ### Student Paper Prizes
 In some years, there are two winning papers selected, one in theory, one in experiment.
@@ -121,6 +122,9 @@ In some years, there are two winning papers selected, one in theory, one in expe
 |2020 Amsterdam | experiment | Fabian Beutel | Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates | [video](https://www.youtube.com/watch?v=88FqydYnnlg)
 |2021 Amsterdam | theory | Tony Metger | Device-independent protocols from computational assumptions | [video](https://www.youtube.com/watch?v=HcX6OPHYrVY)
 |2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  [video](https://www.youtube.com/watch?v=MFyicCNBmeg)
+|2022 Taiwan | theory | TBD | TBD
+|2022 Taiwan | experiment |  TBD | TBD
+
 
 
 
@@ -136,6 +140,10 @@ Some editions of QCrypt features best-poster awards, sometimes awarded per poste
 |2018 Shanghai | Shiyu Wang | Yingqiu Mao
 
 
+### 2022
+<a href="http://2022.qcrypt.net/" title="Website" target="_blank">
+	<img src="/images/conferences/2022.png" width="800"/>
+</a>
 
 ### 2021
 <a href="http://2021.qcrypt.net/" title="Website" target="_blank">

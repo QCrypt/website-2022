@@ -1,8 +1,17 @@
 ---
+title: Call for papers
+draft: false
+type: text_page
+menu:
+    main:
+        weight: 120
+---
+<!--
 title: Call for Papers
 type: text_page
 aliases: [/call_staging/]
 draft: false
+-->
 ---
 
 <!--
@@ -24,9 +33,9 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |Tue,5 July 2022, 23:59 (Anywhere on Earth)|Poster submission deadline|
 |Fri, 15 July 2022| Poster acceptance notification|
 |29 August - 2 September 2022| QCrypt 2022|
-
+<!--
 Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events.
-
+-->
 ## Goal of the Conference
 QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined.  We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation.  (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.)  QCRYPT features both experimental and theoretical talks.
 
@@ -51,8 +60,10 @@ The submission server is coming soon.
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ## Program Committee
-The program committee list can be found <a href="/team/#program-committee">here</a>. Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2022@qcrypt.net" icon="email" >}} with any questions.
-
+The program committee list can be found <a href="/team/#program-committee">here</a>.
+<!--
+Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2022@qcrypt.net" icon="email" >}} with any questions.
+-->
 
 <!--
 "Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract.

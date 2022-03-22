@@ -34,9 +34,9 @@ You can contact us via email to {{< button-link label="2022@qcrypt.net" url="mai
 ### PC chairs
 
 {{< teams types="pcchairs" >}}
-
+<!--
 You can contact the PC chairs via email to {{< button-link label="pcchairs2022@qcrypt.net" url="mailto:pcchairs2022@qcrypt.net" icon="email" >}}<br>
-
+-->
 
 
 ### PC members

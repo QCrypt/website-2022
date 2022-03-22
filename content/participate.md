@@ -1,8 +1,6 @@
 ---
 title: Participation Manual
-draft: false
-type: text_page
-draft: false
+draft: true
 type: text_page
 menu:
     main:

@@ -40,9 +40,9 @@ menu:
 <!-- INFO -->
 {{% home-info what="Registrants:>1000,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
 
-## What is QCrypt 2021?
+## What is QCrypt 2022?
 
-QCrypt 2021 is the 11th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
+QCrypt2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
 

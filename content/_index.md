@@ -116,7 +116,6 @@ QCrypt2022 is the 12th edition of the yearly international scientific conference
 
 {{% partners categories="gold,silver,bronze,community" %}}
 ## Sponsors
-
 <!--
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY" target="_blank">Become a sponsor</a>
 -->

@@ -1,6 +1,7 @@
 ---
 title: Schedule
-horizontal: true
+draft: true
+horizontal: false
 menu:
   main:
     weight: 21

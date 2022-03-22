@@ -1,6 +1,6 @@
 ---
 title: Bo-Yin Yang
-surname: Yang
+surname: _Yang
 type: core
 subtitle: IIS, Academia Sinica
 job: General chair

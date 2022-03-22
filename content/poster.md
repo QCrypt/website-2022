@@ -1,7 +1,7 @@
 ---
 title: Poster, Logos and Templates
 
-draft: false
+draft: true
 type: text_page
 ---
 

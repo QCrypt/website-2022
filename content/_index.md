@@ -114,10 +114,16 @@ QCrypt2022 is the 12th edition of the yearly international scientific conference
 <!-- ### online -->
 {{% /home-location %}}
 
+{{% home-tickets %}}
+
+<h2 style="text-align:center;">co-organizer</h2>
+<img src="/images/partners/ccisa.png" alt="ccisa-logo" style="width:15%;margin-left:auto;margin-right:auto;display: black;"/>
+{{% /home-tickets %}}
+
+
 {{% partners categories="gold,silver,bronze,community" %}}
 ## Sponsors
-<!--
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY" target="_blank">Become a sponsor</a>
--->
 
 {{% /partners %}}
+
+<p align= "center"> <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1XkABMRsQw5EMnt3CiNhjGN3kYn6VPvRd/view?usp=sharing" target="_blank">Become a sponsor</a></p>

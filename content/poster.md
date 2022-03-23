@@ -6,29 +6,29 @@ type: text_page
 ---
 
 ## Poster
-See below for the official poster of QCrypt 2021. You can download and print yourself the following versions:
-* <a href="/images/poster/QCryptPoster21.pdf" download>A4 PDF</a>
-* <a href="/images/poster/QCryptPoster21.png" download>PNG</a>
+See below for the official poster of QCrypt 2022. You can download and print yourself the following versions:
+* <a href="/images/poster/QCryptPosterA4.pdf" download>A4 PDF</a>
+* <a href="/images/poster/QCryptPoster.png" download>PNG</a>
 
 
-<a href="/images/poster/QCryptPoster21.png" download>
-  <img id="dark_bg" src="/images/poster/QCryptPoster21.png"/>
+<a href="/images/poster/QCryptPoster.png" download>
+  <img id="dark_bg" src="/images/poster/QCryptPoster.png"/>
 </a>
 
 
 ## Logos
-Here are the logos to use for QCrypt 2021. Click on the logos to download.
+Here are the logos to use for QCrypt 2022. Click on the logos to download.
 
 ### Transparent png, white font
 (you cannot use this one on white background)
 
 <a href="/images/logos/QCr_Logo.png" download>
-  <img id="dark_bg" src="/images/logos/QCr_Logo.png"/>
+  <img id="dark_bg" src="/images/logos/QCr_Logo_2022.png"/>
 </a>
 
 ### Transparent png, black font
 <a href="/images/logos/QCr_LogoBlack.png" download>
-  <img id="dark_bg" src="/images/logos/QCr_LogoBlack.png"/>
+  <img id="dark_bg" src="/images/logos/QCr_Logo_black.png"/>
 </a>
 
 ### White Sheep

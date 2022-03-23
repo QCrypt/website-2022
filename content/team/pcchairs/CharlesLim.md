@@ -3,7 +3,7 @@ title: Lim Ci Wen (Charles)
 surname: _Wen
 type: pcchairs
 subtitle: National University of Singapore
-job: PC chair (theory)
+job: PC primary chair (theory)
 photo: CharlesLim.jpg
 socials:
   - link: 'https://www.ccwlim.com/'

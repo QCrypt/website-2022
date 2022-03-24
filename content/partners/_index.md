@@ -22,12 +22,14 @@ We are grateful to our generous sponsors. With their contributions, they not onl
 
 QCrypt 2022 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2022.
 
+<!--
 ## Our Sponsors
-
 
 {{% partners categories="gold,silver,bronze,community" %}}
 
 {{% /partners %}}
+-->
+
 <!--
 We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébastien Gambs and Louis Salvail and their institutes: University of Montréal, McGill University and Université du Québec
 à Montréal, for transferring the surplus of QCrypt 2019 to the organization of QCrypt 2020 and 2021.

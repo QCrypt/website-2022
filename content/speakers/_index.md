@@ -11,24 +11,24 @@ menu:
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 ## Invited Speakers
-TBD
-<!--
-Click on a speaker's name to read the title and abstract for their presentation.
+
+
+<!--Click on a speaker's name to read the title and abstract for their presentation.-->
 
 {{< speakers-invited >}}
 {{< /speakers-invited >}}
--->
+
 ## Tutorial Speakers
-TBD
-<!--
-Click on a speaker's name to read the title and abstract for their presentation.
+
+<!--Click on a speaker's name to read the title and abstract for their presentation.-->
 
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
--->
+
+
+<!--
 ## Industry Session
 TBD
-<!--
 Click on a speaker's name to read their bio.
 
 {{< speakers-industry >}}

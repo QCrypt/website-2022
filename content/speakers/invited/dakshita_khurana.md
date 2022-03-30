@@ -9,5 +9,5 @@ website: '/sessions/invited_khurana'
 socials:
   - link: 'https://www.dakshitakhurana.com'
     name: Site
-
+draft: true
 ---

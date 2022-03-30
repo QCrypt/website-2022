@@ -9,5 +9,5 @@ website: '/sessions/tutorial_broadbent'
 socials:
   - link: 'https://mysite.science.uottawa.ca/abroadbe/'
     name: Site
-
+draft: true
 ---

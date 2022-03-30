@@ -8,6 +8,6 @@ type: invited
 socials:
   - link: 'https://www.mcqst.de/about/members/harald-weinfurter.html'
     name: Site
-
+draft: false
 ---
 website: '/sessions/invited_weinfurter'

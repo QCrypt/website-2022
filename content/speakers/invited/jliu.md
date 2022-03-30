@@ -8,6 +8,6 @@ type: invited
 socials:
   - link: 'https://www.cs.utexas.edu/~jiahui/'
     name: Site
-
+draft: false
 ---
 website: '/sessions/invited_nicolas'

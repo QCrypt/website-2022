@@ -8,6 +8,6 @@ type: invited
 socials:
   - link: 'https://quantum.paris/people'
     name: Site
-
+draft: false
 ---
 website: '/sessions/invited_sangouard'

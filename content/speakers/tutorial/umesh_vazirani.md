@@ -9,5 +9,5 @@ website: '/sessions/tutorial_vazirani'
 socials:
   - link: 'http://people.eecs.berkeley.edu/~vazirani/'
     name: Site
-
+draft: true
 ---

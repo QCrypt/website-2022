@@ -9,5 +9,5 @@ website: '/sessions/tutorial_lim'
 socials:
   - link: 'https://www.ccwlim.com'
     name: Site
-
+draft: true
 ---

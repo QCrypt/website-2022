@@ -9,5 +9,5 @@ website: '/sessions/tutorial_villoresi'
 socials:
   - link: 'http://www.dei.unipd.it/~pavil'
     name: Site
-
+draft: true
 ---

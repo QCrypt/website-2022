@@ -8,6 +8,5 @@ type: tutorial
 socials:
   - link: 'http://www.brl.ntt.co.jp/people/azuma/'
     name: Site
-draft: false
 ---
 website: '/sessions/tutorial_azuma'

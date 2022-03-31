@@ -8,6 +8,6 @@ type: tutorial
 socials:
   - link: 'https://www.uah.edu/science/faculty-staff/dr-rainer-steinwandt'
     name: Site
-draft: false
+
 ---
 website: '/sessions/tutorial_steinwandt'

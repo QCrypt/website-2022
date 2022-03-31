@@ -8,6 +8,6 @@ type: tutorial
 socials:
   - link: 'https://sites.google.com/view/qchip/members?authuser=0'
     name: Site
-draft: false
+
 ---
 website: '/sessions/tutorial_wang'

@@ -6,7 +6,7 @@ menu:
 ---
 
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2021 background" %}}
+{{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2022 background" %}}
 
 ## 29th August to 2nd September 2022
 <!--

@@ -23,7 +23,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 </a>
 -->
 
-## Key dates 2022
+## Key dates QCrypt 2022
 
 |Date |Event|
 |:----|:----|

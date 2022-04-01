@@ -1,6 +1,6 @@
 ---
-title: Program
-draft: true
+title: Confirmed Speakers
+draft: false
 type: speakers
 layout: list_with_header
 menu:

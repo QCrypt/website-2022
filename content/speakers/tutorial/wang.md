@@ -5,6 +5,7 @@ surname: Wang
 company: Peking University
 photoURL: /images/speakers/JianweiWang.png
 type: tutorial
+website: 'https://sites.google.com/view/qchip/members?authuser=0'
 socials:
   - link: 'https://sites.google.com/view/qchip/members?authuser=0'
     name: Site

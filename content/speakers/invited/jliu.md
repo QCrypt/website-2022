@@ -5,9 +5,10 @@ surname: Liu
 company: University of Texas at Austin
 photoURL: /images/speakers/jiahui_dogcafe.jpeg
 type: invited
+website: 'https://www.cs.utexas.edu/~jiahui/'
 socials:
   - link: 'https://www.cs.utexas.edu/~jiahui/'
     name: Site
-draft: false
+
 ---
 website: '/sessions/invited_nicolas'

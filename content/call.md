@@ -54,7 +54,7 @@ For a “poster only” submission, a one-page non-technical description is suff
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-The submission server is now available at: <a href="https://easychair.org/my/conference?conf=qcrypt2022">https://easychair.org/my/conference?conf=qcrypt2022</a>.
+The submission server is now available at: <a href="https://easychair.org/my/conference?conf=qcrypt2022" target="_blank">easychair.org/my/conference?conf=qcrypt2022</a>
 
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.

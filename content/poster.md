@@ -10,7 +10,6 @@ See below for the official poster of QCrypt 2022. You can download and print you
 * <a href="/images/poster/QCryptPosterA4.pdf" download>A4 PDF</a>
 * <a href="/images/poster/QCryptPoster.png" download>PNG</a>
 
-
 <a href="/images/poster/QCryptPoster.png" download>
   <img id="dark_bg" src="/images/poster/QCryptPoster.png"/>
 </a>
@@ -48,4 +47,4 @@ Download a
 <a href="/images/logos/letter.tex" download>
   letter template for Latex
 </a>
-and preview the <a href="/images/logos/letter.pdf" target="_blank">resulting PDF</a>.
+and preview the <a href="/images/logos/letter.pdf" >resulting PDF</a>.

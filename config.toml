@@ -39,11 +39,19 @@ GoogleAnalytics = "G-221GMGECQ6"
     footer_link = "https://www.netlify.com"
 
 [menu]
+
 [[menu.main]]
     identifier = "charter"
     name = "about qcrypt"
     url = "../charter/"
     weight = 200
+    external = true
+
+[[menu.main]]
+    identifier = "travel"
+    name = "travel"
+    url = "../travel/"
+    weight = 190
     external = true
 
 [languages]

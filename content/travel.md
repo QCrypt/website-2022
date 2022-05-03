@@ -12,7 +12,7 @@ type: text_page
 Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined.
 
 ### Venue
-The venue is the <a href="https://www.google.com/maps/place/Academia+Sinica+Humanities+and+Social+Sciences+Building,+No.+128%E8%99%9F,+Section+2,+Academia+Rd,+Nangang+District,+Taipei+City,+115/@25.0409679,121.6091792,17z/" target="_blank">Humanities and Social Sciences Building</a> of <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a>.
+The venue is the <a href="https://www.google.com/maps/place/Academia+Sinica+Humanities+and+Social+Sciences+Building,+No.+128%E8%99%9F,+Section+2,+Academia+Rd,+Nangang+District,+Taipei+City,+115/@25.0409679,121.6091792,17z/" target="_blank">Humanities and Social Sciences Building (HSSB)</a> of <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a>.
 
 <img id="venue" src="/images/venue.jpg"/>
 
@@ -20,6 +20,16 @@ The venue is the <a href="https://www.google.com/maps/place/Academia+Sinica+Huma
 
 ### Traffic
 Getting from Taipei to the conference venue
+* Take a taxi in Taipei:
+It is the fast way (about 20min without traffic from most places in Taipei), runs according to meter, and will cost around 400 New Taiwan dollars. Show the taxi driver the following paragraph:
+
+中央研究院 人文社會科學館
+台北市南港區研究院路2段128號
+
+Academia Sinica, Humanities and Social Sciences Building
+128 Section 2 Academia Road, Taipei
+
+Ask the taxi driver to enter the campus through the main gate. After passing through that gate, go straight even after you cross the little bridge. You want to turn left at the little temple; the HSSB will be on your right.
 
 * Public Transportation Option 1:
 Take the Taipei's Metro Rapid Transit Blue Line or Brown Line to Nangang Exhibition Center (南港展覽館) station. You can take a taxi or a bus (number 205, 212, 276, 306, 620, or 645) on Academia Road to Academia Sinica, or walk down Academia Road from there (25-30 minutes).
@@ -27,14 +37,14 @@ Take the Taipei's Metro Rapid Transit Blue Line or Brown Line to Nangang Exhibit
 Take the Blue Line or Taiwan High-Speed Rail or the TRA (Taiwan Railways Agency) to Nangang Station (南港站) then take a bus on Zhongxiao East Road (number 212 Express, 270, or Blue 25) to Academia Sinica. This is also what you do from the Green World Nangang Hotel.
 * Public Transportation Option 3:
 Take any of the abovementioned buses directly to Academia Sinica.
-Map on how to walk between bus stations and the HSSB:
+Map on how to walk between bus stations and the HSSB:<br>
 <img id="busmap" src="/images/busmap.jpg"/>
 
 * Shuttle buses are planning
 
 Getting from Taoyuan International Airport to the conference venue
 * Take a taxi:
-It is the fast way (about 45 minutes), runs according to meter, and will cost around 1400 New Taiwan dollars (NT$1400 is about 45 USD or 40 EUR). You will need Taiwanese money. Show the taxi driver the following paragraph:
+It is about 45 minutes to run according to the meter, and will cost around 1400 New Taiwan dollars (NT$1400 is about 45 USD or 40 EUR). You will need Taiwanese money. Show the taxi driver the following paragraph:
 
 中央研究院 人文社會科學館
 台北市南港區研究院路2段128號
@@ -42,11 +52,15 @@ It is the fast way (about 45 minutes), runs according to meter, and will cost ar
 Academia Sinica, H.S.S. Building
 128 Section 2 Academia Road, Taipei
 
-Ask the taxi driver to enter the campus through the main gate. After passing through that gate, go straight until you cross the little bridge then turn left, the actitivies center will be on your right.  (if you are looking for the Activities Center, turn left after the little bridge, and look to your left).
+Ask the taxi driver to enter the campus through the main gate. After passing through that gate, go straight until you cross the little bridge then turn left, the actitivies center will be on your right.
 
-* Public Transportation:
+* Public Transportation Option 1:
 Take King (Kuo-Kuang) Bus number 1843 to Nangang Exhibition Center (南港展覽館) which takes about 80 minutes. There are buses every 45–65 minutes starting at Terminal 1 and stopping at Terminal 2. The 1-way fare is NT$115 or about 3.70 USD or 3.20 EUR. Take a taxi from there for another NT$100.
-See also the <a href="https://web.taoyuan-airport.com/transportation?lang=en" target="_blank"> Taoyuan Airport's website on public transportation</a>.
+
+* Public Transportation Option 2:
+The Taoyuan Airport MRT connects Taoyuan International Airport and Taipei Main Station. You could use this MRT line (Note: the direct trains are purple, the same as the distinguishing colors of the line, and local trains are blue) to Taipei Main Station. From Taipei main station, you can take the blue line of Taipei's MRT to Nangang Exhibition Center Station.
+
+See also the <a href="https://web.taoyuan-airport.com/transportation?lang=en" target="_blank"> Taoyuan Airport's website on public transportation</a>.<br>
 <a href="../images/airporttotaipei.jpg" target="_blank"><img id="airporttrans" src="/images/airporttotaipei.jpg"/></a>
 
 ### Accommodation</a>

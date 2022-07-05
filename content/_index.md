@@ -45,9 +45,23 @@ menu:
 
 QCrypt2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
-<a style="color: red" >Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined. </a>
-
 {{% /home-info %}}
+<!--
+{{% home-tickets %}}
+
+## News
+
+### <a style="color: red" >Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined. </a>
+
+<ul>
+<li>29 Jun 2022</li>
+|texttexttexttexttexttexttexttexttext
+</ul>
+
+
+\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
+
+{{% /home-tickets %}}-->
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE

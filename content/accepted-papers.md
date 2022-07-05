@@ -1,7 +1,10 @@
 ---
 title: Accepted Papers
 type: text_page
-draft: true
+draft: false
+menu:
+    main:
+        weight: 31
 ---
 
 
@@ -9,25 +12,28 @@ draft: true
 
 
 ## List of Accepted Contributed Talks
+<!--
 ### Upgraded Talk Slot
 (in order of submission)
 
 {{< papers-upgraded >}}
 {{< /papers-upgraded >}}
 
-### Regular Talk Slot
-(in order of submission)
+### Regular Talk Slot-->
+(in order of submission) 
 
 {{< papers-accepted >}}
 {{< /papers-accepted >}}
 
 
 ## List of Accepted Posters
+(coming soon)
+<!--
 (in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
-
+-->
 <!-- Download a zip-archive of
 {{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/QujOcEzN8b7ndhH/download" icon="tar" >}} available so far.
 

@@ -41,13 +41,6 @@ GoogleAnalytics = "G-221GMGECQ6"
 [menu]
 
 [[menu.main]]
-    identifier = "charter"
-    name = "about qcrypt"
-    url = "../charter/"
-    weight = 200
-    external = true
-
-[[menu.main]]
     identifier = "travel"
     name = "travel"
     url = "../travel/"
@@ -86,5 +79,5 @@ unsafe = true
         disable = true
         simple = false
     [privacy.youtube]
-        disable = false
-        privacyEnhanced = false
+        disable = true
+        privacyEnhanced = true

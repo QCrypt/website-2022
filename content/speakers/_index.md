@@ -1,5 +1,5 @@
 ---
-title: Confirmed Speakers
+title: Speakers
 draft: false
 type: speakers
 layout: list_with_header
@@ -23,7 +23,6 @@ menu:
 
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
-
 
 <!--
 ## Industry Session

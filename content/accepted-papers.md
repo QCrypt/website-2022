@@ -27,7 +27,7 @@ menu:
 
 
 ## List of Accepted Posters
-(coming soon)
+(Coming soon)
 <!--
 (in order of submission)
 

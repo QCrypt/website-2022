@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 type: text_page
-draft: false
+draft: true
 menu:
     main:
         weight: 31
@@ -20,7 +20,7 @@ menu:
 {{< /papers-upgraded >}}
 
 ### Regular Talk Slot-->
-(in order of submission) 
+(in order of submission)
 
 {{< papers-accepted >}}
 {{< /papers-accepted >}}

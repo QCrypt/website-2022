@@ -4,7 +4,7 @@ type: text_page
 draft: false
 menu:
     main:
-        weight: 31
+        weight: 40
 ---
 
 
@@ -27,7 +27,7 @@ menu:
 
 
 ## List of Accepted Posters
-(Coming soon)
+(coming soon)
 <!--
 (in order of submission)
 

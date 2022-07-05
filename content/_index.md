@@ -43,7 +43,7 @@ menu:
 
 ## What is QCrypt 2022?
 
-QCrypt2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
+QCrypt 2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
 <!--

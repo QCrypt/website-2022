@@ -43,25 +43,28 @@ menu:
 
 ## What is QCrypt 2022?
 
-QCrypt 2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: red" href="/charter/#history-of-qcrypt">here</a>.
+QCrypt 2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: yellow" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
-<!--
+
 {{% home-tickets %}}
 
-## News
+## NEWS
 
-### <a style="color: red" >Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined. </a>
+### July 11th. 2022 | QCrypt 2022 Participation Survey
+If you may consider attending QCrypt 2022 in person (e.g., assuming the quarantine rule is removed), please fill in a short participation survey <a style="color: blue" target="_blank" href="https://forms.gle/S1LeKf7qGePRV87n6">here</a>. It will help us greatly for the conference planning.
 
-<ul>
-<li>29 Jun 2022</li>
-|texttexttexttexttexttexttexttexttext
-</ul>
+### July 11th. 2022 | Hybrid Conference
+QCrypt 2022 will be a hybrid conference to ensure participation is possible for everyone. To cater to the potential quarantine rule, the first half of QCrypt will be an online format, while the second half will be more (mostly) physical, with most events allowing for online participation (exceptions include an on-site poster session and an excursion, which will be organized if enough people can attend in-person). The registration site will be opened soon.  
+
+### July 11th. 2022 | COVID, Quarantine, and VISA Information
+Taiwan is on the way to opening its border but certain quarantine rules remain. At the moment, a “3+4 days” quarantine rule applies to everyone entering Taiwan: 3 days of quarantine, plus 4 days of "self-health-monitoring" period (in which one is allowed to attend conferences, conditioned on obtaining negative rapid-test results). The quarantine rule is expected to be further relaxed. The up-to-date information about the quarantine rule and VISA information can be found here. If you have any questions regarding the quarantine rule and VISA application, please feel free to contact us at 2022@QCRYPT.NET.
+
+### July 5th. 2022 | List of accepted papers now available
+Please click <a style="color: blue" href="/accepted-papers/">here</a>.
 
 
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
-
-{{% /home-tickets %}}-->
+{{% /home-tickets %}}
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE

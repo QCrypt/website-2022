@@ -11,6 +11,12 @@ type: text_page
 
 Due to the uncertainty caused by the COVID-19 pandemic, it is not decided yet what form (on-site, hybrid, or fully online) the conference will take place in. We will update the information here as soon as it is determined.
 
+### Quarantine rule:(updated 6 July. 2022)
+Currently, the “3+4 days” quarantine rule applies to everyone entering Taiwan: For the first three days, one has to stay in a quarantine hotel without leaving your hotel room. The remaining four days count as the "health self-monitoring" period, which allows one to give an in-person talk at the conference, but some restrictions still apply, thus making it hard for one to enjoy the full in-person conference experience. We expect that the rule will be relaxed further before QCrypt, but it's hard to predict how exactly yet.
+
+### Visa and entering Taiwan:(updated 6 July. 2022)
+In addition to the quarantine requirement, the current border control requires a Visa and a negative PCR test report (with the test carried out in less than 48 hours before one's departure to Taiwan). At the moment, the Visa application is somewhat complicated. We (the local organizers) need to start the application for all QCrypt participants, and it will take a while to go through our Center for Disease Control. Once this is approved, you can collect the Visa from our Consulate Office. Since the paperwork takes a while, we need to collect the required information from you and start the application soon. For the PCR test, you will have to make your own arrangement but we should be able to (at least partially) subsidize the cost incurred.
+
 ### Venue
 The venue is the <a href="https://www.google.com/maps/place/Academia+Sinica+Humanities+and+Social+Sciences+Building,+No.+128%E8%99%9F,+Section+2,+Academia+Rd,+Nangang+District,+Taipei+City,+115/@25.0409679,121.6091792,17z/" target="_blank">Humanities and Social Sciences Building (HSSB)</a> of <a href="https://www.sinica.edu.tw/en" target="_blank">Academia Sinica</a>.
 

@@ -1,14 +1,14 @@
 ---
 title: Registration
 
-draft: true
+draft: false
 type: text_page
 
 
 ---
 
 ## Registration for QCrypt 2022 is now open!
-QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2022 event will take place online. Thanks to <a href="/partners" target="_blank">our sponsors</a>, there is no registration fee for participants. The link below will bring you to the registration form:
+QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2022 event will take place hybrid. The link below will bring you to the registration form:
 
 {{< button-link label="Register here" url="" icon="link" target="_blank">}}
 

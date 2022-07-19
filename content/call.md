@@ -1,10 +1,7 @@
 ---
 title: Call for papers
-draft: true
+draft: false
 type: text_page
-menu:
-    main:
-        weight: 30
 ---
 <!--
 title: Call for Papers

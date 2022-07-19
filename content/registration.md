@@ -10,7 +10,9 @@ type: text_page
 ## Registration for QCrypt 2022 is now open!
 QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2022 conference will take place as a hybrid event. The link below will bring you to the registration form:<br>
 {{< button-link label="Register here" url="https://conference.iis.sinica.edu.tw/surl/qcypt2022/reg" icon="link" target="_blank">}}<br>
-For students who wish to seek for fee waiver, please send us the application for waiver (see below) before completing your registration.
+<a style="color: red">NOTE</a>: For students who wish to seek for fee waiver, please send us the application for waiver (see below) before completing your registration.<br>
+<a style="color: red">NOTE</a>: Currently, we only open online registration. Please see <a href="/registration/#why-does-the-registration-site-only-show-online-option">here</a> for details.
+
 
 
 ### General Information
@@ -34,7 +36,7 @@ If you wish to participate in person, please check with the Taiwan Embassy near 
 P.S. If you need an invitation letter for the VISA application, please reply to the registration confirmation letter.
 
 ### Student Fee Waiver
-Students who seek for a fee waiver should write to the conference organizers at {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}} with the subject line "QCrypt 2022 Student Fee Waiver" as soon as possible (preferably before July 31st). If you are a presenter, please identify your school, your advisor, and your Paper ID Number in the email. If you are not a presenter, please include a short motivating paragraph specifying your school and advisor (if any), and ask your advisor to write us en email to support your application (one email can pertain to multiple students).
+Students who seek for a fee waiver should write to the conference organizers at {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}} with the subject line "QCrypt 2022 Student Fee Waiver" as soon as possible (preferably before July 31st) . If you are a contributed talk presenter, please identify your school, your advisor, and your Paper ID Number in the email. If you are not a presenter, or if you desire more than the registration waiver, please include a short motivating paragraph specifying your school and advisor (if any), and ask your advisor to write us an email in support of your application (one email can pertain to multiple students).
 
 <!-- **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
 

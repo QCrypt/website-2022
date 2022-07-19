@@ -27,13 +27,12 @@ menu:
 
 
 ## List of Accepted Posters
-(coming soon)
-
-<!--(in order of submission)
+<!--(coming soon)-->
+(in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
--->
+
 <!-- Download a zip-archive of
 {{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/QujOcEzN8b7ndhH/download" icon="tar" >}} available so far.
 

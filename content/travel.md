@@ -12,6 +12,20 @@ type: text_page
 ### Quarantine rule:(updated 6 July. 2022)
 Currently, the “3+4 days” quarantine rule applies to everyone entering Taiwan: For the first three days, one has to stay in a quarantine hotel without leaving your hotel room. The remaining four days count as the "health self-monitoring" period, which allows one to give an in-person talk at the conference, but some restrictions still apply, thus making it hard for one to enjoy the full in-person conference experience. We expect that the rule will be relaxed further before QCrypt, but it's hard to predict how exactly yet.
 
+### Quarantine hotels
+Please check the list below for quarantine hotels near the venue. You can directly phone the hotel to order.
+|Hotel/ Location| Price per night | Size(square meters) | Contact information
+|:----|:---|:---|:---|
+|Forward Hotel Taipei <br>No. 23, Sanchong Road, Nangang District, Taipei City | USD 87-138| 17(no window) / 20 / 23 / 40|Tel：+886-2-2785-2655<br>https://fwhotelng.tw/en/ |
+|CHECK inn Select Taipei NanGang <br>No. 59, Chongyang Rd, Nangang District, Taipei City | USD 107-169 | 26 / 30 / 33 / 50 | Tel: +886 2 2525 2828 <br> https://www.checkinn.com.tw/?page_id=1141 |
+|amba Taipei Songshan<br>8 Section 7 Civic Boulevard, Nangang District, Taipei | USD 177-345 | 27 / 30 / 31 / 37 / 40 / 41 / 48 | Tel: +886 2 2525 2828<br>https://www.amba-hotels.com/en/songshan/ |
+|Dahu Park Hotel<br> No. 462, Section 5, Chenggong Rd, Neihu District, Taipei | USD 138-190 | 30 / 43 | Tel: +886 2 2633 8555 <br> https://www.dahuparkhotel.com.tw/ |
+|The Waterfront Hotel <br>No. 112, Songhe St, Songshan District, Taipei | USD 94-107 | 16 / 18 | Tel: +886 2 2528 1567 <br> https://www.waterfronthotel.com.tw/en/#page |
+
+For more hotel options, please check the <a href="https://quarantinehotel.gov.taipei/" >website</a>.<br>
+Kindly remind:  the quarantine starts from the next day you enter Taiwan, so you need to order the hotel for at least 8 days.
+
+
 <!--### Visa and entering Taiwan:(updated 6 July. 2022)
 In addition to the quarantine requirement, the current border control requires a Visa and a negative PCR test report (with the test carried out in less than 48 hours before one's departure to Taiwan). At the moment, the Visa application is somewhat complicated. We (the local organizers) need to start the application for all QCrypt participants, and it will take a while to go through our Center for Disease Control. Once this is approved, you can collect the Visa from our Consulate Office. Since the paperwork takes a while, we need to collect the required information from you and start the application soon. For the PCR test, you will have to make your own arrangement but we should be able to (at least partially) subsidize the cost incurred.-->
 

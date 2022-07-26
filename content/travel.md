@@ -9,8 +9,31 @@ type: text_page
 
 ## COVID-19 News
 
-### Quarantine rule:(updated 6 July. 2022)
-Currently, the “3+4 days” quarantine rule applies to everyone entering Taiwan: For the first three days, one has to stay in a quarantine hotel without leaving your hotel room. The remaining four days count as the "health self-monitoring" period, which allows one to give an in-person talk at the conference, but some restrictions still apply, thus making it hard for one to enjoy the full in-person conference experience. We expect that the rule will be relaxed further before QCrypt, but it's hard to predict how exactly yet.
+### Quarantine rule
+Taiwan is on the way to opening its border but certain quarantine rules remain. Currently, the “3+4 days” quarantine rule applies to everyone entering Taiwan:<br>
+
+* For the first three days, you have to stay in a quarantine hotel *without* leaving the hotel room.
+* In the next four days (now called “self-initiated epidemic prevention”), you can leave the hotel and attend the conference if you show a negative result from a rapid antigen test (valid for two days), but you are not allowed to stay outside the hotel overnight. You will need to wear a mask all time when you are outside the hotel.
+* You will receive two rapid test kits at the airport.  We will provide additional rapid test kits at the conference if you need more.
+* You have to stay in the same quarantine hotel for the whole 3+4 quarantine period. The day you arrive at the hotel is the 0-th day, so you are expected to book a room for 8 nights.  (See below [link] for information about booking quarantine hotels)
+
+Please check the following links for further details about the quarantine rules.<br>
+https://www.cdc.gov.tw/En/Category/QAPage/SbkmnM5v0OwdDMjJ2tI_xw <br>
+https://www.cdc.gov.tw/En/Bulletin/Detail/rYB7LWBxxycgJznNucXoiw?typeid=158 <br>
+https://focustaiwan.tw/society/202206150005 <br>
+
+
+### VISA
+
+The regulation for VISA application is also relaxing and simplifying. Currently, everyone without a Taiwan passport must apply for a VISA to enter Taiwan, and eVisa application is still suspended.
+
+* Currently, the easiest way to get a VISA is to get an invitation letter from us and then apply for a VISA by yourself from a local Taiwan consulate/representative office near your region (please check here [link] to find one near you).
+* As the application procedure may differ in different locations, we suggest that you contact the consulate near you for the upupdate-to-date instruction before the application.
+* To get an invitation letter, register online from the QCrypt website. We'll send you an invitation letter after you complete the registration.
+* Unfortunately, the VISA application is not open for people holding PRC, HK, and Macau passports yet. We will update the information if the application is open later.
+
+As the regulation is changing over time, if you learn any updates from a local Taiwan consulate, please let us know to help us keep the information up-to-date. Please also do not hesitate to contact us by email{{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}} if you have any questions.
+
 
 ### Quarantine hotels
 Please check the list below for quarantine hotels near the venue. You can directly phone the hotel to order.

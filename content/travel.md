@@ -27,7 +27,7 @@ https://focustaiwan.tw/society/202206150005 <br>
 
 The regulation for VISA application is also relaxing and simplifying. Currently, everyone without a Taiwan passport must apply for a VISA to enter Taiwan, and eVisa application is still suspended.
 
-* Currently, the easiest way to get a VISA is to get an invitation letter from us and then apply for a VISA by yourself from a local Taiwan consulate/representative office near your region (please check here [link] to find one near you).
+* Currently, the easiest way to get a VISA is to get an invitation letter from us and then apply for a VISA by yourself from a local Taiwan consulate/representative office near your region (please check here <a href="https://www.boca.gov.tw/sp-foof-countrylp-01-2.html">[link] </a> to find one near you).
 * As the application procedure may differ in different locations, we suggest that you contact the consulate near you for the up-to-date instruction before the application.
 * To get an invitation letter, register online from the QCrypt website. We'll send you an invitation letter after you complete the registration.
 * Unfortunately, the VISA application is not open for people holding PRC, HK, and Macau passports yet. We will update the information if the application is open later.

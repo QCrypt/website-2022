@@ -106,7 +106,7 @@ See also the <a href="https://web.taoyuan-airport.com/transportation?lang=en" ta
 
 ### Accommodation</a>
 
-Local participants of QCrypt 2022 benefit from reduced room rates at <a href="https://nangang.greenworldhotels.com/en/transportation/" target="_blank">Green World Hotel Nangang 南港洛碁大飯店 </a> (2000NTD per night).If you are interested, please fill in the <a href="https://forms.gle/qnqMEHX5QvT2WB738" target="_blank">form</a> before Aug 18th, 2022.
+Local participants of QCrypt 2022 benefit from reduced room rates at <a href="https://nangang.greenworldhotels.com/en/transportation/" target="_blank">Green World Hotel Nangang 南港洛碁大飯店 </a> (2000NTD per night). If you are interested, please fill in the <a href="https://forms.gle/qnqMEHX5QvT2WB738" target="_blank">form</a> before Aug 18th, 2022.
 
 Other hotels close to the venue for your reference as follows.<br>
 1.<a href="https://www.hotelroyal.com.tw/nangang/" target="_blank">The Place Taipei 南港老爺行旅</a><br>

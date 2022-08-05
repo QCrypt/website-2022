@@ -37,7 +37,7 @@ We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébas
 -->
 
 ## Call for Sponsors
-
+<!--
 The annual QCrypt conference is the main international event that is dedicated to the latest developments in the field of quantum cryptography. Researchers from all over the world present their recent scientific discoveries in the field and companies display their latest relevant technology. The topic of the conference covers all aspects of cryptographic security in the presence of quantum devices, including - but not limited to - quantum key distribution, quantum randomness generation, and the impact of quantum computers on classical cryptography.
 
 The 12th anniversary edition of the conference, QCrypt 2022, will take place in Taiwan, August 29- September 2, 2022. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
@@ -51,7 +51,7 @@ QCrypt 2022 offers the following sponsor packages; for a more detailed descripti
 * Gold： US$10000 and up
 * Platinum： US$14000 and up
 * Diamond： To be negotiated individually
-
+-->
 If you wish to become a sponsor, please contact us at
 {{< button-link label="2022@qcrypt.net"
 url="mailto:2022@qcrypt.net"

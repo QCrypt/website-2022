@@ -137,10 +137,11 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>.
 <img src="/images/partners/ccisa.png" alt="ccisa-logo" style="width:15%;margin-left:auto;margin-right:auto;display: black;"/>
 {{% /home-tickets %}}
 -->
-<!--
 {{% partners categories="gold,silver,bronze,community" %}}
 ## Sponsors
 
 {{% /partners %}}
--->
+<!--
+
 <p align= "center"> <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1XkABMRsQw5EMnt3CiNhjGN3kYn6VPvRd/view?usp=sharing" target="_blank">Become a sponsor</a></p>
+-->

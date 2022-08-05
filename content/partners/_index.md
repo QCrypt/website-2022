@@ -13,29 +13,31 @@ draft: false
 The annual QCrypt conference is the main international event that is dedicated to the latest developments in the field of quantum cryptography. Researchers from all over the world present their recent scientific discoveries in the field and companies display their latest relevant technology. The topic of the conference covers all aspects of *cryptographic security in the presence of quantum devices*, including - but not limited to - quantum key distribution, quantum randomness generation, and the impact of quantum computers on classical cryptography.
 
 The 10th anniversary edition of the conference, QCrypt 2020, will take place in Amsterdam, August 10-14, 2020. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
+-->
 
 
 We are grateful to our generous sponsors. With their contributions, they not only support this conference series but the field of quantum cryptography in general.
--->
+<!--
 
 12th International Conference on Quantum Cryptography
 
 QCrypt 2022 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2022.
+-->
 
-<!--
 ## Our Sponsors
 
 {{% partners categories="gold,silver,bronze,community" %}}
 
-{{% /partners %}}
--->
 
+{{% /partners %}}
 <!--
+
 We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébastien Gambs and Louis Salvail and their institutes: University of Montréal, McGill University and Université du Québec
 à Montréal, for transferring the surplus of QCrypt 2019 to the organization of QCrypt 2020 and 2021.
 -->
 
 ## Call for Sponsors
+
 The annual QCrypt conference is the main international event that is dedicated to the latest developments in the field of quantum cryptography. Researchers from all over the world present their recent scientific discoveries in the field and companies display their latest relevant technology. The topic of the conference covers all aspects of cryptographic security in the presence of quantum devices, including - but not limited to - quantum key distribution, quantum randomness generation, and the impact of quantum computers on classical cryptography.
 
 The 12th anniversary edition of the conference, QCrypt 2022, will take place in Taiwan, August 29- September 2, 2022. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.

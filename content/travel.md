@@ -106,14 +106,12 @@ See also the <a href="https://web.taoyuan-airport.com/transportation?lang=en" ta
 
 ### Accommodation</a>
 
-Participants of QCrypt 2022 benefit of reduced room rates at <a href="https://nangang.greenworldhotels.com/en/transportation/" target="_blank">Green World Hotel Nangang 南港洛碁大飯店 </a>. The price and the applications will come up soon.
+Local participants of QCrypt 2022 benefit from reduced room rates at <a href="https://nangang.greenworldhotels.com/en/transportation/" target="_blank">Green World Hotel Nangang 南港洛碁大飯店 </a> (2000NTD per night).If you are interested, please fill in the <a href="https://forms.gle/qnqMEHX5QvT2WB738" target="_blank">form</a> before Aug 18th, 2022.
 
 Other hotels close to the venue for your reference as follows.<br>
 1.<a href="https://www.hotelroyal.com.tw/nangang/" target="_blank">The Place Taipei 南港老爺行旅</a><br>
-2.<a href="https://fw.tfhg.com.tw/" target="_blank">Forward Hotel Taipei台北馥華商旅(南港館)</a><br>
-3.<a href="http://www.courtyardtaipei.com.tw/" target="_blank">Courtyard Taipei台北六福萬怡酒店</a><br>
-4.<a href="https://www.fushin-hotel.com.tw/taipei/tw/" target="_blank">Fushin Taipei富信大飯店</a><br>
-5.<a href="https://troll.iis.sinica.edu.tw/school22/general%20info/Accommodation.pdf" target="_blank">Others</a><br>
+2.<a href="http://www.courtyardtaipei.com.tw/" target="_blank">Courtyard Taipei台北六福萬怡酒店</a><br>
+3.<a href="https://www.fushin-hotel.com.tw/taipei/tw/" target="_blank">Fushin Taipei富信大飯店</a><br>
 
 ### Tourism
 

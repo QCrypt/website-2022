@@ -1,6 +1,6 @@
 ---
 key: sangouard
-name: N. Sangouard
+name: Nicolas Sangouard
 surname: Sangouard
 company: Universit´e Paris-Saclay, CEA, CNRS
 photoURL: /images/speakers/Nicolas_Sangouard.jpg

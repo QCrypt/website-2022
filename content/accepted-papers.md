@@ -28,7 +28,7 @@ menu:
 
 ## List of Accepted Posters
 <!--(coming soon)-->
-(in order of submission) 
+(in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}

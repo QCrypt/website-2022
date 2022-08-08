@@ -75,7 +75,7 @@
   },
   {
     "pid": 11,
-    "title": "Quantum commitments, signatures without one-way functions",
+    "title": "Quantum commitments and signatures without one-way functions",
     "authors": [
       {
         "first": "Tomoyuki",
@@ -257,7 +257,7 @@
   },
   {
     "pid": 20,
-    "title": "Linear optics, photodetection achieve near-optimal unambiguous coherent state discrimination",
+    "title": "Linear optics and photodetection achieve near-optimal unambiguous coherent state discrimination",
     "authors": [
       {
         "first": "Jasminder",
@@ -503,7 +503,7 @@
   },
   {
     "pid": 38,
-    "title": "Unconditionally secure relativistic multi-party biased coin flipping, die rolling",
+    "title": "Unconditionally secure relativistic multi-party biased coin flipping and die rolling",
     "authors": [
       {
         "first": "Damián",
@@ -683,7 +683,7 @@
   },
   {
     "pid": 45,
-    "title": "Multi-rate, multi-protocol quantum key distribution system using continuous variables",
+    "title": "Multi-rate and multi-protocol quantum key distribution system using continuous variables",
     "authors": [
       {
         "first": "Tao",
@@ -891,7 +891,7 @@
   },
   {
     "pid": 57,
-    "title": "Near-Optimal Characterizations of Privacy Amplification against Quantum Side Information, Quantum Soft Covering",
+    "title": "Near-Optimal Characterizations of Privacy Amplification against Quantum Side Information and Quantum Soft Covering",
     "authors": [
       {
         "first": "Hao-Chung",
@@ -1161,7 +1161,7 @@
   },
   {
     "pid": 71,
-    "title": "Simple, Practical Device-Independent Security Analysis",
+    "title": "Simple and Practical Device-Independent Security Analysis",
     "authors": [
       {
         "first": "Xingjian",
@@ -1359,7 +1359,7 @@
   },
   {
     "pid": 84,
-    "title": "Efficient NIZKs, Signatures from Commit-and-Open Protocols in the QROM",
+    "title": "Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM",
     "authors": [
       {
         "first": "Jelle",
@@ -1405,7 +1405,7 @@
   },
   {
     "pid": 91,
-    "title": "Experimental Demonstration of a Hybrid Authenticated Key Exchange Integrating QKD, QRA in a Single Protocol",
+    "title": "Experimental Demonstration of a Hybrid Authenticated Key Exchange Integrating QKD and QRA in a Single Protocol",
     "authors": [
       {
         "first": "Lydia",
@@ -1537,7 +1537,7 @@
   },
   {
     "pid": 100,
-    "title": "Device-Independent Oblivious Transfer from the Bounded-Quantum-Storage-Model, Computational Assumptions",
+    "title": "Device-Independent Oblivious Transfer from the Bounded-Quantum-Storage-Model and Computational Assumptions",
     "authors": [
       {
         "first": "Peter",
@@ -1569,7 +1569,7 @@
   },
   {
     "pid": 102,
-    "title": "Intrinsic Non-Locality, Device-Independent Conference Key Agreement",
+    "title": "Intrinsic Non-Locality and Device-Independent Conference Key Agreement",
     "authors": [
       {
         "first": "Aby",
@@ -1663,7 +1663,7 @@
   },
   {
     "pid": 109,
-    "title": "Practical randomness amplification, privatisation with implementations on quantum computers",
+    "title": "Practical randomness amplification and privatisation with implementations on quantum computers",
     "authors": [
       {
         "first": "Cameron",
@@ -1689,7 +1689,7 @@
   },
   {
     "pid": 110,
-    "title": "Bounding the influence of loss in quantum position verification, monogamy-of-entanglement games",
+    "title": "Bounding the influence of loss in quantum position verification and monogamy-of-entanglement games",
     "authors": [
       {
         "first": "Llorenc Escola",
@@ -1721,7 +1721,7 @@
   },
   {
     "pid": 112,
-    "title": "Non-Interactive, Non-Destructive Zero-Knowledge Proofs on Quantum States, Multi-Party Generation of Authorized Hidden GHZ States",
+    "title": "Non-Interactive and Non-Destructive Zero-Knowledge Proofs on Quantum States and Multi-Party Generation of Authorized Hidden GHZ States",
     "authors": [
       {
         "first": "Léo",
@@ -1739,7 +1739,7 @@
   },
   {
     "pid": 113,
-    "title": "On the role of quantum communication, loss in attacks on quantum position verification",
+    "title": "On the role of quantum communication and loss in attacks on quantum position verification",
     "authors": [
       {
         "first": "Rene",
@@ -1811,7 +1811,7 @@
   },
   {
     "pid": 115,
-    "title": "Towards practical, error-robust quantum position verification",
+    "title": "Towards practical and error-robust quantum position verification",
     "authors": [
       {
         "first": "Rene",
@@ -1843,7 +1843,7 @@
   },
   {
     "pid": 117,
-    "title": "Bounds for realistic device-independent randomness generation, implementation on a photonic chip",
+    "title": "Bounds for realistic device-independent randomness generation and implementation on a photonic chip",
     "authors": [
       {
         "first": "Boris",
@@ -1873,7 +1873,7 @@
   },
   {
     "pid": 119,
-    "title": "Differential Privacy Amplification in Quantum, Quantum-inspired Algorithms",
+    "title": "Differential Privacy Amplification in Quantum and Quantum-inspired Algorithms",
     "authors": [
       {
         "first": "Armando",
@@ -1923,7 +1923,7 @@
   },
   {
     "pid": 122,
-    "title": "An efficient combination of quantum error correction, authentication",
+    "title": "An efficient combination of quantum error correction and authentication",
     "authors": [
       {
         "first": "Yfke",
@@ -1941,7 +1941,7 @@
   },
   {
     "pid": 124,
-    "title": "Failing gracefully: Decryption failures, the Fujisaki-Okamoto transform",
+    "title": "Failing gracefully: Decryption failures and the Fujisaki-Okamoto transform",
     "authors": [
       {
         "first": "Kathrin",
@@ -2093,7 +2093,7 @@
   },
   {
     "pid": 131,
-    "title": "Design, implementation of a QKD system simulator with detailed secure key generation model",
+    "title": "Design and implementation of a QKD system simulator with detailed secure key generation model",
     "authors": [
       {
         "first": "Masashi",
@@ -2197,7 +2197,7 @@
   },
   {
     "pid": 135,
-    "title": "Time, Query Complexity Tradeoff for the Dihedral Coset Problem",
+    "title": "Time and Query Complexity Tradeoff for the Dihedral Coset Problem",
     "authors": [
       {
         "first": "Maxime",
@@ -2355,7 +2355,7 @@
   },
   {
     "pid": 144,
-    "title": "Reference Frame Independent Quantum Key Distribution with Integrated 6-ch Array Optical Source, Variable Optical Attenuator",
+    "title": "Reference Frame Independent Quantum Key Distribution with Integrated 6-ch Array Optical Source and Variable Optical Attenuator",
     "authors": [
       {
         "first": "Kyongchun",
@@ -2403,7 +2403,7 @@
   },
   {
     "pid": 146,
-    "title": "Experimental demonstration of practical high-speed Gaussian coherent state continuous variable quantum key distribution with real-time parameter monitoring, key distillation",
+    "title": "Experimental demonstration of practical high-speed Gaussian coherent state continuous variable quantum key distribution with real-time parameter monitoring and key distillation",
     "authors": [
       {
         "first": "Amanda",
@@ -2599,7 +2599,7 @@
   },
   {
     "pid": 154,
-    "title": "Aggregation of Tokenized Signature Scheme, Its Applications",
+    "title": "Aggregation of Tokenized Signature Scheme and Its Applications",
     "authors": [
       {
         "first": "Natarajan",
@@ -2947,7 +2947,7 @@
   },
   {
     "pid": 170,
-    "title": "Machine learning based joint phase, polarization equalization for CV-QKD",
+    "title": "Machine learning based joint phase and polarization equalization for CV-QKD",
     "authors": [
       {
         "first": "Hou-Man",
@@ -3029,7 +3029,7 @@
   },
   {
     "pid": 173,
-    "title": "Analysis, Characterization Methodology of High Speed Balanced Homodyne Detector using RF MMIC Amplifier for Quantum Communication",
+    "title": "Analysis and Characterization Methodology of High Speed Balanced Homodyne Detector using RF MMIC Amplifier for Quantum Communication",
     "authors": [
       {
         "first": "Raymond",
@@ -3089,7 +3089,7 @@
   },
   {
     "pid": 175,
-    "title": "Long distance, high rate Gaussian modulated continuous variable quantum key distribution with a local local oscillator",
+    "title": "Long distance and high rate Gaussian modulated continuous variable quantum key distribution with a local local oscillator",
     "authors": [
       {
         "first": "Heng",

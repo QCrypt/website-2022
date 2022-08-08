@@ -269,7 +269,7 @@
   },
   {
     "pid": 37,
-    "title": "Multiphoton, side-channel attacks in mistrustful quantum cryptography",
+    "title": "Multiphoton and side-channel attacks in mistrustful quantum cryptography",
     "authors": [
       {
         "first": "Mathieu",
@@ -295,7 +295,7 @@
   },
   {
     "pid": 41,
-    "title": "Tight analytic bound on the trade-off between device-independent randomness, nonlocality",
+    "title": "Tight analytic bound on the trade-off between device-independent randomness and nonlocality",
     "authors": [
       {
         "first": "Lewis",
@@ -313,7 +313,7 @@
   },
   {
     "pid": 46,
-    "title": "Time-bin quantum key distribution exploiting the conversion from, to polarization states, with qubits based temporal syncronization",
+    "title": "Time-bin quantum key distribution exploiting the conversion from and to polarization states, with qubits based temporal syncronization",
     "authors": [
       {
         "first": "Davide",
@@ -351,7 +351,7 @@
   },
   {
     "pid": 49,
-    "title": "Privacy, correctness trade-offs for information-theoretically secure quantum homomorphic encryption",
+    "title": "Privacy and correctness trade-offs for information-theoretically secure quantum homomorphic encryption",
     "authors": [
       {
         "first": "Yanglin",
@@ -555,7 +555,7 @@
   },
   {
     "pid": 76,
-    "title": "High-efficiency, fast photon-number-resolving SNSPD",
+    "title": "High-efficiency and fast photon-number-resolving SNSPD",
     "authors": [
       {
         "first": "Lorenzo",
@@ -761,7 +761,7 @@
   },
   {
     "pid": 95,
-    "title": "Pseudorandom (Function-Like) Quantum State Generators: New Definitions, Applications",
+    "title": "Pseudorandom (Function-Like) Quantum State Generators: New Definitions and Applications",
     "authors": [
       {
         "first": "Prabhanjan",

@@ -1,7 +1,7 @@
 ---
 title: QuantumCTek
 type: partner
-draft: true
+draft: false
 category: bronze
 logo: /images/partners/QuantumCTek.png
 website: http://quantum-info.com/

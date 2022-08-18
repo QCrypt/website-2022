@@ -1,10 +1,11 @@
 ---
-title: "Contributed Talks 2b: QKD expt (Chair: coming soon)"
+title: "Contributed Talks 5: In-person (Chair: coming soon)"
 format: contributed
 papers:
-- 27
-- 30
-- 31
+- 35
+- 37
+- 68
+- 83
 videoId: null
 presentation: null
 draft: false

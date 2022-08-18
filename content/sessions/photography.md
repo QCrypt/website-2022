@@ -1,9 +1,6 @@
 ---
-title: Closing Remarks
+title: Group Photography
 format: other
-speakers:
-- chung
-- yang
 videoId: null
 videoTime: null
 presentation: null

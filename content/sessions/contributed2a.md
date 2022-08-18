@@ -1,11 +1,11 @@
 ---
-title: "Contributed Talks 2a: QKD (Chair: Andreas Poppe)"
+title: "Contributed Talks 2a: Instrumentation (Chair: coming soon)"
 format: contributed
 papers:
-- 89
-- 91
-- 18
-videoId: 37FyHIH7Jd0
+- 46
+- 76
+- 77
+videoId: null
 presentation: null
 draft: false
 ---

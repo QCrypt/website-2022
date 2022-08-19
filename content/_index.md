@@ -50,6 +50,9 @@ QCrypt 2022 is the 12th edition of the yearly international scientific conferenc
 {{% home-tickets %}}
 
 ## NEWS
+### August 19th. 2022 | Preliminary program now available
+Please click <a style="color: blue" href="/schedule/">here</a>.
+
 
 ### July 11th. 2022 | QCrypt 2022 Participation Survey
 If you may consider attending QCrypt 2022 in person (e.g., assuming the quarantine rule is removed), please fill in a short participation survey <a style="color: blue" target="_blank" href="https://forms.gle/S1LeKf7qGePRV87n6">here</a>. It will help us greatly for the conference planning.

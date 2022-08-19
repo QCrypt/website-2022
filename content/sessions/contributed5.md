@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5: In-person (Chair: coming soon)"
+title: "Contributed Talks 5: In-person (Chair: local-organizers)"
 format: contributed
 papers:
 - 35

@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2a: Instrumentation (Chair: coming soon)"
+title: "Contributed Talks 2a: Experimental talks (Chair: Wang Chao)"
 format: contributed
 papers:
 - 46

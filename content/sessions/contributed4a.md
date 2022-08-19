@@ -1,8 +1,8 @@
 ---
-title: "Contributed Talks 4a: CS/theory (Chair: coming soon)"
+title: "Contributed Talks 4a: Theory talks (Chair: Anna Pappa)"
 format: contributed
 papers:
-- 35
+- 36
 - 59
 - 60
 - 81

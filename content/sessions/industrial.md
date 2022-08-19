@@ -1,19 +1,30 @@
 ---
 key: industry
-title: "Industry Session (Chairs: Marco Lucamarini and Feihu Xu)"
+title: "Industry Session (Chairs: Coming soon)"
 id: industry
 format: other
 speakers:
-- huttner
-- shields
-- sasaki
-- wille
-- qiwei
-- ursin
-videoId: XT2e7IqAgDg
+- gehring
+- peevhan
+- pegon
+- khan
+- starkwood
+- diaz
+- han
+- bacco
+- zhao
+- capeleto
+- woodward
+- zeng
+videoId: null
 presentation: null
 draft: false
 ---
+(Alphabetical Listing by Company Name)
+# Invited Talk 1:  Experimental d evice independent quantum key distribution based on photonic system
+Speaker: Wen-Zhuo Liu (University of Science and Technology of China)
+
+
 
 ## Program
 ### 11:00 - 11:45: Fibre-based session (Chair: Marco Lucamarini)
@@ -27,3 +38,4 @@ draft: false
 - [Wei Qi](/sessions/industry_qi/), CEO of [CAS Quantum Network Co.](http://cas.cn)
 - [Rupert Ursin](/sessions/industry_ursin/), Founder and Scientist at [qtlabs](https://www.qtlabs.at)
 - Discussion
+-->

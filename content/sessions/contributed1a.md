@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1: Crypto (Chair: Coming soon)"
+title: "Contributed Talks 1a: Theory Talks (Chair: Anurag Anshu)"
 format: contributed
 papers:
 - 10

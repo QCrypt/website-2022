@@ -1,12 +1,14 @@
 ---
 title: 'Business Meeting & Best Student Paper Prize'
 format: other
-videoId: "DpxAfo66nlc"
-presentation: "/slides/business-meeting.pdf"
+videoId: null
+presentation: null
 draft: false
 ---
 
 ## Program
+coming soon
+<!--
 * 2021 Local organizers report: Christian Schaffner & Serge Fehr (10 mins)
 * 2021 PC report: Carl Miller & Tobias Gehring (10 mins)
 * QCrypt 2022: local organizers (5 mins)
@@ -29,3 +31,4 @@ Congratulations to **Tony Metger** for *Device-independent protocols from comput
 Congratulations to **Likang Zhang** for *High-rate quantum key distribution with silicon photonics* with co-authors Wei Li; Hao Tan; Yan-Lin Tang; Kejin Wei; Sheng-Kai Liao; Cheng-Zhi Peng; Feihu Xu; Jian-Wei Pan
 
 {{< button-link label="award" url="/images/awards/BestPaperQ21_Experimental.png" icon="link">}}
+-->

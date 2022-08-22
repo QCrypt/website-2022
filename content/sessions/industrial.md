@@ -5,7 +5,7 @@ id: industry
 format: other
 speakers:
 - gehring
-- peevhan
+- peev
 - pegon
 - khan
 - starkwood
@@ -16,6 +16,7 @@ speakers:
 - capeleto
 - woodward
 - zeng
+- zhou
 videoId: null
 presentation: null
 draft: false

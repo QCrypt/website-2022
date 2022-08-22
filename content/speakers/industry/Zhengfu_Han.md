@@ -5,5 +5,5 @@ surname: Qasky
 company: Qasky
 photoURL: /images/team/han.jpg
 type: industry
-website: '/sessions/industrial'
+website: '/sessions/industry_han'
 ---

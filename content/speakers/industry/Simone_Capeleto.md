@@ -5,5 +5,5 @@ surname: ThinkQuantum
 company: ThinkQuantum
 photoURL: /images/team/capeleto.jpg
 type: industry
-website: '/sessions/industrial'
+website: '/sessions/industry_capeleto'
 ---

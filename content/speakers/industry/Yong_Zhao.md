@@ -5,5 +5,5 @@ surname: Quantum CTek
 company: Quantum CTek
 photoURL: /images/team/zhao.jpg
 type: industry
-website: '/sessions/industrial'
+website: '/sessions/industry_zhao'
 ---

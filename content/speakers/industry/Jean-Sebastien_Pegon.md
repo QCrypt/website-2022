@@ -5,5 +5,5 @@ surname: ID Quantique
 company: ID Quantique
 photoURL: /images/team/pegon.jpg
 type: industry
-website: '/sessions/industrial'
+website: '/sessions/industry_pegon'
 ---

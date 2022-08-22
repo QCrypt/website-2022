@@ -5,5 +5,5 @@ surname: QTI
 company: QTI
 photoURL: /images/team/bacco.jpg
 type: industry
-website: '/sessions/industrial'
+website: '/sessions/industry_bacco'
 ---

@@ -22,6 +22,7 @@ presentation: null
 draft: false
 ---
 Coming soon
+<!--
 (Alphabetical Listing by Company Name)
 
 # Industry Session  1:
@@ -60,7 +61,7 @@ Speaker: Robert Woodward (Toshiba)
 # Industry Session  12:
 Speaker: YingMing Zhou (XT Quantech)
 
-<!--
+
 
 ## Program
 ### 11:00 - 11:45: Fibre-based session (Chair: Marco Lucamarini)

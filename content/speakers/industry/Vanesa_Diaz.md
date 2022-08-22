@@ -5,5 +5,5 @@ surname: LuxQuanta
 company: LuxQuanta
 photoURL: /images/team/diaz.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 ---

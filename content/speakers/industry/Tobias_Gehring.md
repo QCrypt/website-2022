@@ -5,5 +5,5 @@ surname: cryptQ
 company: CryptQ
 photoURL: /images/team/gehring.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 ---

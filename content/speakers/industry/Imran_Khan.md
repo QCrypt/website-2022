@@ -5,5 +5,5 @@ surname: KEEQuant
 company: KEEQuant
 photoURL: /images/team/khan.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 ---

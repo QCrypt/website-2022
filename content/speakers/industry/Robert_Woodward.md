@@ -5,5 +5,5 @@ surname: Toshiba
 company: Toshiba
 photoURL: /images/team/woodward.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 ---

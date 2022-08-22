@@ -5,10 +5,8 @@ surname: Colbeck
 company: University of York
 photoURL: /images/speakers/roger-colbeck.jpg
 type: tutorial
-website: 'https://www.york.ac.uk/maths/staff/roger-colbeck/'
+website: '/sessions/tutorial_colbeck'
 socials:
   - link: 'https://www.york.ac.uk/maths/staff/roger-colbeck/'
     name: Site
-
 ---
-website: '/sessions/tutorial_colbeck'

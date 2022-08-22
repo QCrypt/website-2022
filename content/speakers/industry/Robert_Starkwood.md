@@ -5,5 +5,5 @@ surname: KETS
 company: KETS
 photoURL: /images/team/starkwood.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 ---

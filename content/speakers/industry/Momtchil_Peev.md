@@ -5,6 +5,6 @@ surname: Huawei Technologies Duesseldorf GmbH
 company: Huawei Technologies Duesseldorf GmbH
 photoURL: /images/team/peev.jpg
 type: industry
-website: '/speakers/'
+website: '/sessions/industrial'
 
 ---

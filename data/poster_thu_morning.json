@@ -1540,12 +1540,80 @@
     "title": "Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment in Mission-Critical Environments",
     "authors": [
       {
+        "first": "Marco",
+        "last": "Pistoia"
+      },
+      {
         "first": "Omar",
         "last": "Amer"
       },
       {
-        "first": "Marco",
-        "last": "Pistoia"
+        "first": "Monik R.",
+        "last": "Behera"
+      },
+      {
+        "first": "Joseph A.",
+        "last": "Dolphin"
+      },
+      {
+        "first": "James F.",
+        "last": "Dynes"
+      },
+      {
+        "first": "Benny",
+        "last": "John"
+      },
+      {
+        "first": "Paul A.",
+        "last": "Haigh"
+      },
+      {
+        "first": "Yasushi",
+        "last": "Kawakura"
+      },
+      {
+        "first": "David H.",
+        "last": "Kramer"
+      },
+      {
+        "first": "Jeffrey",
+        "last": "Lyon"
+      },
+      {
+        "first": "Navid",
+        "last": "Moazzami"
+      },
+      {
+        "first": "Tulasi D.",
+        "last": "Movva"
+      },
+      {
+        "first": "Antigoni",
+        "last": "Polychroniadou"
+      },
+      {
+        "first": "Suresh",
+        "last": "Shetty"
+      },
+      {
+        "first": "Greg",
+        "last": "Sysak"
+      },
+      {
+        "first": "Farzam",
+        "last": "Toudeh-Fallah"
+      },
+      {
+        "first": "Sudhir",
+        "last": "Upadhyay"
+      },
+      {
+        "first": "Robert I.",
+        "last": "Woodward"
+      },
+      {
+        "first": "Andrew J.",
+        "last": "Shields"
       }
     ]
   },

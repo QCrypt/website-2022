@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Vazirani: TBC (Chair: coming soon)"
+title: "Tutorial: TBC (Chair: coming soon)"
 format: tutorial
 speakers:
   - wang

@@ -14,7 +14,7 @@ See below for the official poster of QCrypt 2022. You can download and print you
   <img id="dark_bg" src="/images/poster/QCryptPoster.png"/>
 </a>
 
-
+ 
 ## Logos
 Here are the logos to use for QCrypt 2022. Click on the logos to download.
 

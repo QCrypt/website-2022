@@ -21,7 +21,7 @@
     - session: contributed1c
       time: '17:15'
     - session: __endofday
-      time: '18:05'
+      time: '17:55'
 
 - day: '2022-08-30'
   sessions:
@@ -61,7 +61,7 @@
     - session: contributed3
       time: '11:00'
     - session: __lunch
-      time: '11:30'
+      time: '11:20'
     - session: industrial
       time: '15:00'
     - session: __break

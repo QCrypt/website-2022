@@ -16,7 +16,6 @@ Click link for
 Download a {{< button-link label="zip-archive" url="https://surfdrive.surf.nl/files/index.php/s/fdA5dzPllmwnOBn/download" icon="tar" target="_blank">}} of all posters.
 -->
 ## Posters presented in this session
-coming soon
-<!--
+<!--coming soon-->
+
 {{< posters-accepted session="tue_afternoon" >}}{{< /posters-accepted >}}
--->

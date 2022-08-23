@@ -2,8 +2,8 @@
 title: Opening
 format: other
 speakers:
-- chung
 - yang
+- liang
 videoId: null
 presentation: null
 draft: false

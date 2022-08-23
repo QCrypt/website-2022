@@ -9,7 +9,7 @@ layout: list_with_header
 ## Online event
 QCrypt 2020 will be held as online event.
 {{< button-link label="Format of online conference" url="/online-conference" icon="link">}}
- 
+
 ## Conference Schedule
 This page gives an overview of the sessions. The {{< button-link label="schedule" url="/schedule" icon="link">}} is now available.
 

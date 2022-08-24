@@ -24,9 +24,10 @@ Implementing a DIQKD protocol with random key basis, we observe a significant vi
 In the future, quantum networks will provide high efficiency detection of states shared by the network nodes. Our results show how shared entanglement can be utilized for secure key exchange even with potentially untrusted devices, and that DIQKD indeed will become the standard service for key exchange.
 
 
-# Invited Talk 3:  coming soon
+# Invited Talk 3:  Experimental quantum key distribution certified by Bell’s theorem
 Speaker: Nicolas Sangouard (Universit´e Paris-Saclay, CEA, CNRS)
 
+Abstract: Quantum key distribution protocols provide information-theoretic security, a strong form of security unreachable by classical means. However, quantum protocols realised so far are subject to a class of attacks exploiting implementation defects in the quantum devices involved. Following the pioneering work of Ekert proposing the use of entanglement to bound an adversary's information from Bell's theorem, we present here the experimental realisation of a complete quantum key distribution protocol immune to these vulnerabilities. We achieve this by combining theoretical developments on finite-statistics analysis, error correction, and privacy amplification, with an event-ready scheme enabling the rapid generation of high-fidelity entanglement between two trapped-ion qubits connected by an optical fibre link. The secrecy of our key is guaranteed device-independently: it is based on the validity of quantum theory, and certified by measurement statistics observed during the experiment. Our result paves the way for further quantum information applications based on the device-independence principle.
 
 
 <!-- fields to use above: -->

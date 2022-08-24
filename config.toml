@@ -47,13 +47,6 @@ GoogleAnalytics = "G-221GMGECQ6"
     weight = 20
     external = true
 
-[[menu.main]]
-    identifier = "travel"
-    name = "travel"
-    url = "../travel/"
-    weight = 190
-    external = true
-
 [languages]
 [languages.en]
     weight = 1

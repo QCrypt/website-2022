@@ -3,7 +3,7 @@ key: diaz
 name: Vanesa Diaz
 surname: LuxQuanta
 company: LuxQuanta
-photoURL: /images/team/diaz.jpg
+photoURL: /images/speakers/diaz.jpg
 type: industry
 website: '/sessions/industry_diaz'
 ---

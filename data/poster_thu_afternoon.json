@@ -406,5 +406,35 @@
         "last": "Lim"
       }
     ]
+  },
+  {
+    "pid": 179,
+    "title": "Experimental proposal of discrete-variable quantum key distribution with homodyne detector",
+    "authors": [
+      {
+        "first": "Cassey C.",
+        "last": "Liang"
+      },
+      {
+        "first": "Chao",
+        "last": "Wang"
+      },
+      {
+        "first": "Ignatius W.",
+        "last": "Primaatmaja"
+      },
+      {
+        "first": "Gong",
+        "last": "Zhang"
+      },
+      {
+        "first": "Jing Yan",
+        "last": "Haw"
+      },
+      {
+        "first": "Charles C.-W.",
+        "last": "Lim"
+      }
+    ]
   }
 ]

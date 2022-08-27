@@ -10,6 +10,8 @@ menu:
 Click link for
 {{< button-link icon="direction" label="instructions for participants" url="/pdf/QCrypt_2022_Eventx_particpants_instructions.pdf" icon="tar" target="_blank">}}.
 
+**All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.**
+
 ## Instructions for Participants
 
 All QCrypt 2022 events (talks, poster sessions etc.) can be accessed via a browser-based online environment (provided by EventX), referred to as “the QCrypt space” below. In order to participate in QCrypt 2022, you need to {{< button-link label="Register here" url="/registration" icon="link" target="_blank">}}. After registering, we will send you all participation links by email.

@@ -90,12 +90,6 @@ The QCrypt Slack workspace enables interaction that is not restricted to the tim
 During the breaks (and at any other time during the conference), participants can meet each other and chitchat in the ‘Networking Lounge’ of the ‘Main Lobby’. The Discussion Lounge table have a bounded capacity for 15 participants (as indicated by the number of seats in each room).
 
 <img src="/images/instructions/07lounge.png" alt="lounge" title="lounge" style="width:85%;height:auto;" />
-<!--
-### Helpdesk
-
-1. {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}
-Go to ‘Support’ in the ‘Main Lobby’ for additional information and to get in touch with the QCrypt 2022 helpdesk. Click on ‘JOIN’ to meet up with a member of the support staff; the help desk will not be permanently staffed, so email to drop a message on the #helpdesk Slack channel if you would like to talk to our support staff.
--->
 
 ## Instructions for Zoom webinar speakers (tutorial, invited, contributed)
 
@@ -158,3 +152,22 @@ icon="email" >}}
   <li>Thank the speaker(s) at the end of the session.
 </ul>
 Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}
+
+## Helpdesk
+
+1. If you have registration questions, it contains student fee waiver support, the payment fails, and receipts, please email to<br>
+{{< button-link label="ele8ej@iis.sinica.edu.tw" url="mailto:ele8ej@iis.sinica.edu.tw" icon="email" >}}
+
+2. If you didn't get the conference link (EventX) link after your registration, please link to the website and click the 'Join Now' button:
+https://spot.eventx.io/events/9fbaef60-cf4a-454a-86d5-8152c788d5fd
+
+<img src="/images/instructions/10joinnow.png" alt="join" title="join" style="width:85%;height:auto;" />
+
+Fill your email to Retrieve the Magic Link. Then you will receive an EventX email like <a href="#instructions-for-participants">step 1</a>.
+
+<img src="/images/instructions/11magiclink.png" alt="magiclink" title="magiclink" style="width:40%;height:auto;" />
+
+Press the red icon to get technical support with EventX.
+Use the right-side chat room under the people tag, and you could contact E-think PCO, our Qcrypt Secretariat, for more help.
+
+<img src="/images/instructions/12help.png" alt="help" title="help" style="width:85%;height:auto;" />

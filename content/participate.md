@@ -90,9 +90,71 @@ The QCrypt Slack workspace enables interaction that is not restricted to the tim
 During the breaks (and at any other time during the conference), participants can meet each other and chitchat in the ‘Networking Lounge’ of the ‘Main Lobby’. The Discussion Lounge table have a bounded capacity for 15 participants (as indicated by the number of seats in each room).
 
 <img src="/images/instructions/07lounge.png" alt="lounge" title="lounge" style="width:85%;height:auto;" />
-
 <!--
 ### Helpdesk
 
+1. {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}
 Go to ‘Support’ in the ‘Main Lobby’ for additional information and to get in touch with the QCrypt 2022 helpdesk. Click on ‘JOIN’ to meet up with a member of the support staff; the help desk will not be permanently staffed, so email to drop a message on the #helpdesk Slack channel if you would like to talk to our support staff.
-<!-- -->
+-->
+
+## Instructions for Zoom webinar speakers (tutorial, invited, contributed)
+
+1.    You will receive an invitation as panelist for the Zoom webinar, please join the meeting **15 minutes before the session of your presentation.**
+
+2.    When preparing your slides, leave some room on the upper right corner for the image of yourself on the live stream.
+
+3.    Please download and change the virtual background while you join the meeting.
+
+<a href="https://www.dropbox.com/s/ft13qs129wrmf8p/Qcrypt%202022%20.jpg?dl=0" target="_blank">Download the Virtual Background of Qcrypt 2022</a>
+
+<a href="https://support.zoom.us/hc/en-us/articles/210707503-Changing-your-Virtual-Background-image" target="_blank">How to change virtual background</a>
+
+<li>Presentations for contributed talks should be 6 minutes plus 4 minutes of Q&A.
+<li>Presentations for invited talks should be 40 minutes plus 5 minutes of Q&A.
+<li>Presentations for tutorial talks should be 60-65 minutes plus 10-15 minutes of Q&A.
+<li>DIQKD talk series should be 25 minutes plus 5 minutes of Q&A for each talk.
+<li>In the evening before the day of your session, you receive an invitation as panelist for the Zoom webinar.
+<li>Visit the Zoom webinar 15 minutes before the start of **the session** that features your presentation. During this time, you can then check if screen sharing works, etc.
+<li>Once the webinar is live and the session chair has introduced you and given you the floor, you give your presentation. Ignore chat messages that may pop up during the presentation; the session chair will deal with those.
+All panelists currently not presenting can leave on their cameras but should mute themselves.
+
+Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com"
+icon="email" >}}
+
+## Instructions for session chairs
+
+1. you will receive an invitation as panelist for the Zoom webinar,  please join the meeting **15 minutes before the start of the session you are chairing.**
+
+2. Please download and change the virtual background while you join the meeting.
+
+<a href="https://www.dropbox.com/s/ft13qs129wrmf8p/Qcrypt%202022%20.jpg?dl=0" target="_blank">Download the Virtual Background of Qcrypt 2022</a>
+
+<a href="https://support.zoom.us/hc/en-us/articles/210707503-Changing-your-Virtual-Background-image" target="_blank">How to change virtual background</a>
+
+**The protocol for your session chairing is as follows:**
+
+<li>Check that all upcoming speaker(s) of the session is/are present and ready.
+<li>Allanelists not presenting can leave on their cameras but should mute themselves.
+<li>Oncthe webinar is live:
+
+  <ul>
+  <li>Welcome the audience.
+  <li>Quickly explain the procedure that the audience can ask questions
+      <ul>
+      <li>by writing the question in the Q&A Box.
+      <li>by raising the hand and being unmuted by the session chair (mostly for tutorial, and possibly invited talks and contributed talks).
+  </ul>
+  <li>Introduce the (first) speaker and hand it over to him/her for the presentation.
+  <li>In case of a contributed-talks session, once the first speaker is done (6 minutes presentation plus 4 minutes Q&A), give the floor to the second speaker, etc..
+  <li>At the end of the session, organize the Q&A:
+  <ul>
+      <li>Check the audience who raise hands from both onsite or online.
+      <li>Read out (relevant) questions from the Q&A Box.
+      <li>Check for raised hands and unmute temporarily to let the person ask a question. This requires the chair to be co-host: as a security feature, regular attendees in Zoom webinars cannot turn on video, and can only speak when activated by a (co-)host.
+      <li>Check if some of the panelists have questions.
+      <li>If necessary, try to get a bit of a discussion going by asking questions yourself.
+  </ul>
+  <li>Make sure to stay within the allotted time slot.
+  <li>Thank the speaker(s) at the end of the session.
+</ul>
+Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}

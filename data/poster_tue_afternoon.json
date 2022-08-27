@@ -986,24 +986,6 @@
     ]
   },
   {
-    "pid": 140,
-    "title": "Large block size Toeplitz hashing implementation on FPGA",
-    "authors": [
-      {
-        "first": "Hong Jie",
-        "last": "Ng"
-      },
-      {
-        "first": "Chao",
-        "last": "Wang"
-      },
-      {
-        "first": "Charles",
-        "last": "Lim"
-      }
-    ]
-  },
-  {
     "pid": 142,
     "title": "Extract more randomness using dimension witness",
     "authors": [

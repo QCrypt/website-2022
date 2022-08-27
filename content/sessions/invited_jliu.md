@@ -1,6 +1,6 @@
 ---
 title: "Invited: Quantum Copy Protection and Unclonable Cryptography (Chair: Nai-Hui, Chia)"
-format: invited
+
 speakers:
   - jliu
 videoId: null

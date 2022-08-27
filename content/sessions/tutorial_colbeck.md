@@ -1,6 +1,5 @@
 ---
 title: "Tutorial: Tutorial on Device-independent QKD (Chair: Serge Fehr)"
-format: tutorial
 speakers:
   - colbeck
 videoId: null

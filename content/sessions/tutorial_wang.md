@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: Silicon Photonic Quantum Technologies: (Chair: Qiang Zhang)"
-format: tutorial
+
 speakers:
   - wang
 videoId: null

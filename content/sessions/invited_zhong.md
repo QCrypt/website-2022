@@ -1,6 +1,5 @@
 ---
 title: "Invited: Towards practical long-distance quantum communication — Twin-field QKD (Chair: Xiangbin Wang)"
-format: invited
 speakers:
   - zhong
 videoId: null

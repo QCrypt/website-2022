@@ -1,6 +1,5 @@
 ---
 title: "Contributed Talks 1c: Experimental talks (Chair: Yuan Zhiliang)"
-format: contributed
 papers:
 - 54
 - 62

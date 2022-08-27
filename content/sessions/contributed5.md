@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5: In-person (Chair: local-organizers)"
+title: "Contributed Talks 5: In-person (Chair: Yeong-Cherng Liang)"
 format: contributed
 papers:
 - 35

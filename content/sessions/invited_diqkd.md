@@ -1,5 +1,5 @@
 ---
-title: "Invited: DIQKD Talk Series (Chair: coming soon)"
+title: "Invited: DIQKD Talk Series (Chair: Feihu Xu)"
 format: invited
 speakers:
   - wzliu

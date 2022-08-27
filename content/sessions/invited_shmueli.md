@@ -1,5 +1,5 @@
 ---
-title: "Invited: Semi-quantum Unclonable Cryptography (Chair: coming soon)"
+title: "Invited: Semi-quantum Unclonable Cryptography (Chair: Kai-Min Chung)"
 format: invited
 speakers:
   - shmueli

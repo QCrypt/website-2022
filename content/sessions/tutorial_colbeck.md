@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Tutorial on Device-independent QKD (Chair: coming soon)"
+title: "Tutorial: Tutorial on Device-independent QKD (Chair: Serge Fehr)"
 format: tutorial
 speakers:
   - colbeck

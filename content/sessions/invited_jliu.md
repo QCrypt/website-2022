@@ -1,5 +1,5 @@
 ---
-title: "Invited: Quantum Copy Protection and Unclonable Cryptography (Chair: coming soon)"
+title: "Invited: Quantum Copy Protection and Unclonable Cryptography (Chair: Nai-Hui, Chia)"
 format: invited
 speakers:
   - jliu

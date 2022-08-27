@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Post-quantum cryptography: classical cryptography in the quantum age (Chair: coming soon)"
+title: "Tutorial: Post-quantum cryptography: classical cryptography in the quantum age (Chair: Bo-Yin Yang)"
 format: tutorial
 speakers:
   - steinwandt

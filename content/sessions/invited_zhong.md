@@ -1,5 +1,5 @@
 ---
-title: "Invited: Towards practical long-distance quantum communication — Twin-field QKD (Chair: coming soon)"
+title: "Invited: Towards practical long-distance quantum communication — Twin-field QKD (Chair: Xiangbin Wang)"
 format: invited
 speakers:
   - zhong

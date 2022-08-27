@@ -9,7 +9,7 @@ menu:
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
- 
+
 ## Invited Speakers
 <!--Click on a speaker's name to read the title and abstract for their presentation.-->
 
@@ -26,7 +26,7 @@ menu:
 <!--Click on a speaker's name to read their bio.-->
 (Alphabetical Listing by Company Name)
 
-{{< speakers-industry >}}
+{{< speakers-industry  >}}
 {{< /speakers-industry >}}
 
 <!--

@@ -50,6 +50,11 @@ QCrypt 2022 is the 12th edition of the yearly international scientific conferenc
 {{% home-tickets %}}
 
 ## NEWS
+
+### August 27th. 2022 | QCrypt 2022 is ready to roll
+We have sent the conference link for registered participants. Please click the <a style="color: blue" href="/participate/">manual</a> for the instructions. We also send the instructions for Zoom webinar speakers (tutorial, invited, contributed) and session chairs. You can also find <a style="color: blue" href="/participate/#instructions-for-zoom-webinar-speakers-tutorial-invited-contributed">the information</a> on the website. If you need any help, you can find us at the <a style="color: blue" href="/participate/#helpdesk">helpdesk</a>.
+We are looking forward to your participation.
+
 ### August 19th. 2022 | Preliminary program now available
 Please click <a style="color: blue" href="/schedule/">here</a>.
 

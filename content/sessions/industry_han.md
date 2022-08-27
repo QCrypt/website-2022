@@ -1,5 +1,5 @@
 ---
-title: "Industry Session (Chairs: Coming soon)"
+title: "Industry Session (Chairs: Marco Lucamarini)"
 speakers:
   - han
 videoId: null

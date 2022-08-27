@@ -1,6 +1,6 @@
 ---
 key: industry
-title: "Industry Session (Chairs: Coming soon)"
+title: "Industry Session (Chairs: Marco Lucamarini)"
 id: industry
 format: other
 speakers:

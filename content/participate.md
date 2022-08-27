@@ -173,3 +173,5 @@ Press the red icon to get technical support with EventX.
 Use the right-side chat room under the people tag, and you could contact E-think PCO, our Qcrypt Secretariat, for more help.
 
 <img src="/images/instructions/12help.png" alt="help" title="help" style="width:85%;height:auto;" />
+
+Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}

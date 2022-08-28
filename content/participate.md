@@ -1,5 +1,5 @@
 ---
-title: Participation Manual
+title: Manual
 draft: false
 type: text_page
 menu:

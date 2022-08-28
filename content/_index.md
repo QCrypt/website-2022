@@ -51,6 +51,9 @@ QCrypt 2022 is the 12th edition of the yearly international scientific conferenc
 
 ## NEWS
 
+### August 28th. 2022 | About conference record
+Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
+
 ### August 27th. 2022 | Prerecorded contributed talks videos now available
 Please click our Youtube channel <a style="color: blue" href="https://www.youtube.com/playlist?list=PLVgC3LSv44hDpTUj7q3_sHkjEiiyUxWCJ">here</a>.
 

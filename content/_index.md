@@ -152,6 +152,7 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>.
 {{% /home-tickets %}}
 -->
 {{% partners categories="gold,silver,bronze,community" %}}
+
 ## Sponsors
 
 {{% /partners %}}

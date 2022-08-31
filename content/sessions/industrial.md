@@ -10,7 +10,6 @@ speakers:
 - khan
 - starkwood
 - diaz
-- han
 - bacco
 - zhao
 - capeleto

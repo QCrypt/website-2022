@@ -2,7 +2,7 @@
 title: Closing Remarks
 format: other
 speakers:
-- chung
+- slattery
 - yang
 videoId: null
 videoTime: null

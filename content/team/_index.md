@@ -8,7 +8,7 @@ type: team
 layout: list_with_header
 draft: false
 ---
-
+ 
 To make all this possible, these people are working behind the scenes.
 
 ## Organizing Committee

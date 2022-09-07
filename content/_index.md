@@ -4,7 +4,6 @@ menu:
   main:
     weight: -1
 ---
-
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2022 background" %}}
 

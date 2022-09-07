@@ -14,7 +14,6 @@ QCrypt is the yearly international scientific conference presenting last year’
 <a style="color: red">NOTE</a>: Currently, we only open online registration. Please see <a href="/registration/#why-does-the-registration-site-only-show-online-option">here</a> for details.
 
 
-
 ### General Information
 The registration fees are as follows:
 |Options |Registration Cost|

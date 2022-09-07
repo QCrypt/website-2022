@@ -40,13 +40,6 @@ GoogleAnalytics = "G-221GMGECQ6"
 
 [menu]
 
-[[menu.main]]
-    identifier = "registration"
-    name = "registration"
-    url = "../registration/"
-    weight = 20
-    external = true
-
 [languages]
 [languages.en]
     weight = 1

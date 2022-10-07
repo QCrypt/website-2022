@@ -7,17 +7,18 @@ draft: false
 ---
 
 ## Program
-coming soon
+
+* 2022 Local organizers report: Bo-Yin Yang & Kai-Min Chung (10 mins)
+{{< button-link label="2022 Local organizers slides" url="/slides/01_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
+
 <!--
-* 2021 Local organizers report: Christian Schaffner & Serge Fehr (10 mins)
-* 2021 PC report: Carl Miller & Tobias Gehring (10 mins)
+* 2022 PC report: Carl Miller & Tobias Gehring (10 mins)
 * QCrypt 2022: local organizers (5 mins)
 * QCrypt 2023 solicitation of proposals: Gorjan Alagic (< 5 mins)
 * Questions/discussions? (5+ mins)
-* 2021 Best Student Paper Prize: Carl Miller & Tobias Gehring (10 mins)
+* 2022 Best Student Paper Prize: Carl Miller & Tobias Gehring (10 mins)
 
-{{< button-link label="all slides" url="/slides/business-meeting.pdf" icon="link" target="_blank">}}
-
+{{< button-link label="all slides" url="/slides/01_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
 ## Best Student Paper Awards
 {{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}}
 

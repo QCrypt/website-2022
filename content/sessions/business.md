@@ -19,17 +19,19 @@ draft: false
 * 2022 Best Student Paper Prize: Carl Miller & Tobias Gehring (10 mins)
 
 {{< button-link label="all slides" url="/slides/01_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
+-->
+
 ## Best Student Paper Awards
-{{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}}
-
+<!--{{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}}
+-->
 ### Theory
-Congratulations to **Tony Metger** for *Device-independent protocols from computational assumptions* with co-authors Yfke Dulek; Andrea Coladangelo; Rotem Arnon-Friedman; Thomas Vidick
-
+Congratulations to **Tony Metger** for *Generalised entropy accumulation for quantum cryptography* with co-authors Omar Fawzi ; David Sutter ; Renato Renner
+<!--
 {{< button-link label="award" url="/images/awards/BestPaperQ21_Theory.png" icon="link">}}
-
+-->
 
 ### Experiment
-Congratulations to **Likang Zhang** for *High-rate quantum key distribution with silicon photonics* with co-authors Wei Li; Hao Tan; Yan-Lin Tang; Kejin Wei; Sheng-Kai Liao; Cheng-Zhi Peng; Feihu Xu; Jian-Wei Pan
-
+Congratulations to **Fadri Grünenfelder** for *Towards 100 Mbps secret key rate QKD* with co-authors Alberto Boaron ; Matthieu Perrenoud ; Giovanni Resta ; Raphael Houlmann ; Sylvain El-Khoury ; Hugo Zbinden
+<!--
 {{< button-link label="award" url="/images/awards/BestPaperQ21_Experimental.png" icon="link">}}
 -->

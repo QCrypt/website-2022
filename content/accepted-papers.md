@@ -30,6 +30,13 @@ draft: false
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
 
+## Best Student Paper Awards
+### Theory
+Congratulations to **Tony Metger** for *Generalised entropy accumulation for quantum cryptography* with co-authors Omar Fawzi ; David Sutter ; Renato Renner
+
+### Experiment
+Congratulations to **Fadri Grünenfelder** for *Towards 100 Mbps secret key rate QKD* with co-authors Alberto Boaron ; Matthieu Perrenoud ; Giovanni Resta ; Raphael Houlmann ; Sylvain El-Khoury ; Hugo Zbinden
+
 <!-- Download a zip-archive of
 {{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/QujOcEzN8b7ndhH/download" icon="tar" >}} available so far.
 

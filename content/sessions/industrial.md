@@ -16,11 +16,10 @@ speakers:
 - woodward
 - zeng
 - zhou
-videoId: null
+videoId: VGRMQ7FtK-U
 presentation: null
 draft: false
 ---
-Coming soon
 <!--
 (Alphabetical Listing by Company Name)
 

@@ -4,7 +4,7 @@ speakers:
   - wzliu
   - weinfurter
   - sangouard
-videoId: null
+videoId: 27UkBcA3cfQ
 presentation: null
 draft: false
 ---

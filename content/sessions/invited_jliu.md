@@ -3,7 +3,7 @@ title: "Invited: Quantum Copy Protection and Unclonable Cryptography (Chair: Nai
 
 speakers:
   - jliu
-videoId: null
+videoId: C0_xt80HMoE
 presentation: null
 draft: false
 ---

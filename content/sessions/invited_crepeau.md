@@ -2,7 +2,7 @@
 title: "Invited: Experimental relativistic zero-knowledge proofs (Chair: Gorjan Alagic)"
 speakers:
   - crepeau
-videoId: null
+videoId: q8INvvcXNQI
 videoTime: null
 presentation: null
 draft: false

@@ -14,7 +14,7 @@ draft: false
 * 2022 Local organizers report: Bo-Yin Yang & Kai-Min Chung (10 mins)
 {{< button-link label="2022 Local organizers slides" url="/slides/02_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
 
-* QCrypt 2023 report:Ollie Slattery, Gorjan Alagic & Tom Ventsias (10 mins)
+* 2023 QCrypt organizers report: Ollie Slattery, Gorjan Alagic & Tom Ventsias (10 mins)
 {{< button-link label="2023 report slides" url="/slides/03_QC2023.pdf" icon="link" target="_blank">}}
 
 <!--

@@ -2,7 +2,7 @@
 title: "Tutorial: Quantum repeaters for a quantum internet (Chair: Lim Ci Wen (Charles))"
 speakers:
   - azuma
-videoId: null
+videoId: 91ZyCpCwTtk
 presentation: null
 draft: false
 ---

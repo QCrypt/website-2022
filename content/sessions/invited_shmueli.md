@@ -2,7 +2,7 @@
 title: "Invited: Semi-quantum Unclonable Cryptography (Chair: Kai-Min Chung)"
 speakers:
   - shmueli
-videoId: null
+videoId: B1YoiZkwjo0
 presentation: null
 draft: false
 ---

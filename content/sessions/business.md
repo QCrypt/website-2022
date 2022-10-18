@@ -12,7 +12,10 @@ draft: false
 {{< button-link label="2022 PC report slides" url="/slides/01_PC_Report.pdf" icon="link" target="_blank">}}
 
 * 2022 Local organizers report: Bo-Yin Yang & Kai-Min Chung (10 mins)
-{{< button-link label="2022 Local organizers slides" url="/slides/01_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
+{{< button-link label="2022 Local organizers slides" url="/slides/02_Local organizers report_business-meeting.pdf" icon="link" target="_blank">}}
+
+* QCrypt 2023 solicitation of proposals:Ollie Slattery, Gorjan Alagic & Tom Ventsias (10 mins)
+{{< button-link label="2023 Proposals slides" url="/slides/03_QC2023.pdf" icon="link" target="_blank">}}
 
 <!--
 * QCrypt 2022: local organizers (5 mins)

@@ -50,6 +50,10 @@ QCrypt 2022 is the 12th edition of the yearly international scientific conferenc
 
 ## NEWS
 
+### February 1st. 2023 | QCrypt 2023
+Looking forward to seeing you this year! You could find QCrypt 2023 website <a style="color: blue" href="https://2023.qcrypt.net/">here </a>.
+
+
 ### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
 
